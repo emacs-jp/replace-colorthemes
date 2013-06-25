@@ -18,3 +18,15 @@ Please request by [issues](https://github.com/emacs-jp/replace-colorthemes/issue
 ### desert
 
 ![desert](images/desert-theme.png)
+
+### gnome2
+
+![gnome2](images/gnome2-theme.png)
+
+### tty-dark
+
+![tty-dark](images/tty-dark-theme.png)
+
+### aliceblue
+
+![aliceblue](images/aliceblue-theme.png)
