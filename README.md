@@ -30,3 +30,15 @@ Please request by [issues](https://github.com/emacs-jp/replace-colorthemes/issue
 ### aliceblue
 
 ![aliceblue](images/aliceblue-theme.png)
+
+### matrix
+
+![matrix](images/matrix-theme.png)
+
+### robin-hood
+
+![robin-hood](images/robin-hood-theme.png)
+
+### subtle-hacker
+
+![subtle-hacker](images/subtle-hacker-theme.png)
