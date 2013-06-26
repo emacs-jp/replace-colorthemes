@@ -67,7 +67,7 @@
  '(excerpt ((t (:italic t :slant italic))))
  '(file-name-shadow ((t (:foreground "grey70"))))
  '(fixed ((t (:bold t :weight bold))))
- '(fixed-pitch ((t (:family "Monospace"))))
+
  '(flyspell-duplicate-face ((t (:bold t :foreground "Gold3" :underline t :weight bold))))
  '(flyspell-incorrect-face ((t (:bold t :foreground "OrangeRed" :underline t :weight bold))))
 
@@ -251,10 +251,10 @@
    ((t (:background "grey75" :foreground "black"
                     :box (:line-width 1 :style released-button)))))
  '(tooltip
-   ((t (:family "Sans Serif" :background "lightyellow" :foreground "black"))))
+   ((t (:background "lightyellow" :foreground "black"))))
  '(trailing-whitespace ((t (:background "red1"))))
  '(underline ((t (:underline t))))
- '(variable-pitch ((t (:family "Sans Serif"))))
+
  '(vertical-border ((t (nil))))
  '(warning ((t (:bold t :foreground "DarkOrange" :weight bold))))
 

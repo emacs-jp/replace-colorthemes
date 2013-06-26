@@ -34,10 +34,10 @@
 (custom-theme-set-faces
  'ld-dark
  '(default ((t (:background "black" :foreground "white"))))
- '(Info-title-1-face ((t (:bold t :weight bold :height 1.728 :family "helv"))))
- '(Info-title-2-face ((t (:bold t :weight bold :height 1.44 :family "helv"))))
- '(Info-title-3-face ((t (:bold t :weight bold :height 1.2 :family "helv"))))
- '(Info-title-4-face ((t (:bold t :weight bold :family "helv"))))
+ '(Info-title-1-face ((t (:bold t :weight bold :height 1.728))))
+ '(Info-title-2-face ((t (:bold t :weight bold :height 1.44))))
+ '(Info-title-3-face ((t (:bold t :weight bold :height 1.2))))
+ '(Info-title-4-face ((t (:bold t :weight bold))))
 
  '(bbdb-company ((t (:italic t :slant italic))))
  '(bbdb-field-name ((t (:bold t :weight bold))))
@@ -55,7 +55,7 @@
  '(change-log-date-face ((t (:italic t :foreground "BurlyWood" :slant oblique))))
  '(change-log-email-face ((t (:foreground "Aquamarine"))))
  '(change-log-file-face
-   ((t (:bold t :foreground "LightSkyBlue" :weight bold :height 0.9 :family "Verdana"))))
+   ((t (:bold t :foreground "LightSkyBlue" :weight bold :height 0.9))))
  '(change-log-function-face ((t (:foreground "Aquamarine"))))
  '(change-log-list-face ((t (:foreground "LightSkyBlue"))))
  '(change-log-name-face ((t (:bold t :foreground "Gold" :weight bold))))
@@ -63,7 +63,7 @@
  '(clear-case-mode-string-face
    ((t (:bold t :background "grey" :foreground "black"
               :box (:line-width 2 :color "grey" :style released-button)
-              :weight bold :height 0.9 :family "Arial"))))
+              :weight bold :height 0.9))))
  '(comint-highlight-input ((t (:bold t :weight bold))))
  '(comint-highlight-prompt ((t (:foreground "cyan"))))
  '(completions-annotations ((t (:italic t :slant italic))))
@@ -88,11 +88,11 @@
  '(custom-comment-face ((t (:background "dim gray"))))
  '(custom-comment-tag-face ((t (:foreground "gray80"))))
  '(custom-documentation-face ((t (nil))))
- '(custom-face-tag-face ((t (:bold t :weight bold :height 1.1 :family "helv"))))
+ '(custom-face-tag-face ((t (:bold t :weight bold :height 1.1))))
  '(custom-group-tag-face
-   ((t (:bold t :foreground "light blue" :weight bold :height 1.1 :family "helv"))))
+   ((t (:bold t :foreground "light blue" :weight bold :height 1.1))))
  '(custom-group-tag-face-1
-   ((t (:bold t :foreground "pink" :weight bold :height 1.1 :family "helv"))))
+   ((t (:bold t :foreground "pink" :weight bold :height 1.1))))
  '(custom-invalid-face ((t (:background "red" :foreground "yellow"))))
  '(custom-modified-face ((t (:background "blue" :foreground "white"))))
  '(custom-rogue-face ((t (:background "black" :foreground "pink"))))
@@ -101,7 +101,7 @@
  '(custom-state-face ((t (:foreground "lime green"))))
  '(custom-variable-button-face ((t (:bold t :underline t :weight bold))))
  '(custom-variable-tag-face
-   ((t (:bold t :foreground "light blue" :weight bold :height 1.2 :family "helv"))))
+   ((t (:bold t :foreground "light blue" :weight bold :height 1.2))))
  '(diary-face ((t (:foreground "red"))))
  '(diff-added-face ((t (nil))))
  '(diff-changed-face ((t (nil))))
@@ -113,9 +113,9 @@
  '(diff-index-face ((t (:bold t :background "grey60" :weight bold))))
  '(diff-nonexistent-face ((t (:bold t :background "grey60" :weight bold))))
  '(diff-removed-face ((t (nil))))
- '(dired-directory ((t (:bold t :family "Verdana" :weight bold :foreground "LightSkyBlue" :height 0.9))))
+ '(dired-directory ((t (:bold t :weight bold :foreground "LightSkyBlue" :height 0.9))))
  '(dired-flagged ((t (:bold t :weight bold :foreground "Pink"))))
- '(dired-header ((t (:bold t :family "Verdana" :weight bold :foreground "PaleGreen" :height 0.9))))
+ '(dired-header ((t (:bold t :weight bold :foreground "PaleGreen" :height 0.9))))
  '(dired-ignored ((t (:foreground "grey70"))))
  '(dired-mark ((t (:bold t :weight bold :foreground "Gold"))))
  '(dired-marked ((t (:bold t :weight bold :foreground "DarkOrange"))))
@@ -127,7 +127,7 @@
  '(excerpt ((t (:italic t :slant italic))))
  '(file-name-shadow ((t (:foreground "grey70"))))
  '(fixed ((t (:bold t :weight bold))))
- '(fixed-pitch ((t (:family "courier"))))
+
  '(flyspell-duplicate-face ((t (:bold t :foreground "Gold3" :underline t :weight bold))))
  '(flyspell-incorrect-face ((t (:bold t :foreground "OrangeRed" :underline t :weight bold))))
 
@@ -137,7 +137,7 @@
  '(font-lock-constant-face ((t (:bold t :foreground "Gold" :weight bold))))
  '(font-lock-doc-face ((t (:italic t :foreground "BurlyWood" :slant oblique))))
  '(font-lock-doc-string-face ((t (:italic t :foreground "BurlyWood" :slant oblique))))
- '(font-lock-function-name-face ((t (:bold t :foreground "LightSkyBlue" :weight bold :height 0.9 :family "Verdana"))))
+ '(font-lock-function-name-face ((t (:bold t :foreground "LightSkyBlue" :weight bold :height 0.9))))
  '(font-lock-keyword-face ((t (:foreground "LightSkyBlue"))))
  '(font-lock-negation-char-face ((t (nil))))
  '(font-lock-preprocessor-face ((t (:bold t :foreground "Gold" :weight bold))))
@@ -145,13 +145,13 @@
  '(font-lock-regexp-grouping-backslash ((t (:bold t :weight bold))))
  '(font-lock-regexp-grouping-construct ((t (:bold t :weight bold))))
  '(font-lock-string-face ((t (:italic t :foreground "BurlyWood" :slant oblique))))
- '(font-lock-type-face ((t (:bold t :foreground "PaleGreen" :weight bold :height 0.9 :family "Verdana"))))
+ '(font-lock-type-face ((t (:bold t :foreground "PaleGreen" :weight bold :height 0.9))))
  '(font-lock-variable-name-face ((t (:bold t :foreground "Aquamarine" :weight bold))))
  '(font-lock-warning-face ((t (:bold t :foreground "chocolate" :weight bold))))
  '(fringe
    ((t (:background "grey4" :foreground "Wheat"
                     :slant normal :weight normal :width normal
-                    :foundry "outline" :family "courier new"))))
+                    :foundry "outline"))))
  '(glyphless-char ((t (:height 0.6))))
 
  '(gnus-cite-attribution-face ((t (:italic t :slant italic))))
@@ -222,7 +222,7 @@
  '(header-line
    ((t (:background "grey20" :foreground "grey75"
                     :box (:line-width 3 :color "grey20" :style released-button)
-                    :height 0.81 :family "Arial"))))
+                    :height 0.81))))
  '(help-argument-name ((t (nil))))
  '(highlight ((t (:background "darkolivegreen" :foreground "black"))))
  '(highlight-changes-delete-face ((t (:foreground "red" :underline t))))
@@ -231,7 +231,7 @@
  '(info-header-node ((t (:italic t :bold t :foreground "white" :slant italic :weight bold))))
  '(info-header-xref ((t (:bold t :foreground "cyan" :weight bold))))
  '(info-menu-5 ((t (:foreground "red1"))))
- '(info-menu-header ((t (:bold t :weight bold :family "helv"))))
+ '(info-menu-header ((t (:bold t :weight bold))))
  '(info-node ((t (:italic t :bold t :foreground "white" :slant italic :weight bold))))
  '(info-xref ((t (:bold t :foreground "cyan" :weight bold))))
  '(isearch ((t (:background "palevioletred2" :foreground "brown4"))))
@@ -259,26 +259,26 @@
  '(minibuffer-prompt ((t (:foreground "cyan"))))
  '(mode-line ((t (:background "grey" :foreground "black"
                               :box (:line-width 2 :color "grey" :style released-button)
-                              :height 0.9 :family "Arial"))))
+                              :height 0.9))))
  '(mode-line-buffer-id
    ((t (:background "grey" :foreground "black"
                     :box (:line-width 2 :color "grey" :style released-button)
-                    :height 0.9 :family "Arial"))))
+                    :height 0.9))))
  '(mode-line-emphasis ((t (:bold t :weight bold))))
  '(mode-line-highlight
    ((t (:box (:line-width 2 :color "grey40" :style released-button)))))
  '(mode-line-inactive
-   ((t (:family "Arial" :background "grey30" :foreground "grey80"
+   ((t (:background "grey30" :foreground "grey80"
                 :box (:line-width -1 :color "grey40" :style nil)
                 :weight light :height 0.9))))
  '(modeline-mousable
    ((t (:background "grey" :foreground "black"
                     :box (:line-width 2 :color "grey" :style released-button)
-                    :height 0.9 :family "Arial"))))
+                    :height 0.9))))
  '(modeline-mousable-minor-mode
    ((t (:background "grey" :foreground "black"
                     :box (:line-width 2 :color "grey" :style released-button)
-                    :height 0.9 :family "Arial"))))
+                    :height 0.9))))
 
  '(mouse ((t (:background "white"))))
  '(next-error ((t (:foreground "white" :background "DarkSlateGray"))))
@@ -329,10 +329,10 @@
  '(tool-bar
    ((t (:background "grey75" :foreground "black"
                     :box (:line-width 1 :style released-button)))))
- '(tooltip ((t (:family "helv" :background "lightyellow" :foreground "black"))))
+ '(tooltip ((t (:background "lightyellow" :foreground "black"))))
  '(trailing-whitespace ((t (:background "white"))))
  '(underline ((t (:underline t))))
- '(variable-pitch ((t (:family "helv"))))
+
  '(vertical-border ((t (nil))))
  '(warning ((t (:bold t :foreground "DarkOrange" :weight bold))))
 

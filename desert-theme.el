@@ -69,7 +69,6 @@
  '(error ((t (:bold t :foreground "Pink" :weight bold))))
  '(escape-glyph ((t (:foreground "cyan"))))
  '(file-name-shadow ((t (:foreground "grey70"))))
- '(fixed-pitch ((t (:family "Monospace"))))
 
  '(font-lock-builtin-face ((t (:foreground "MediumPurple3"))))
  '(font-lock-comment-delimiter-face ((t (:foreground "LightSkyBlue3"))))
@@ -153,10 +152,10 @@
  '(success ((t (:bold t :foreground "Green1" :weight bold))))
  '(tool-bar
    ((t (:background "grey75" :foreground "black" :box (:line-width 1 :style released-button)))))
- '(tooltip ((t (:family "Sans Serif" :background "lightyellow" :foreground "black"))))
+ '(tooltip ((t (:background "lightyellow" :foreground "black"))))
  '(trailing-whitespace ((t (:bold t :weight bold :foreground "goldenrod"))))
  '(underline ((t (:underline t))))
- '(variable-pitch ((t (:family "Sans Serif"))))
+
  '(vertical-border ((t (nil))))
  '(warning ((t (:bold t :foreground "DarkOrange" :weight bold))))
  '(widget-button ((t (:bold t :weight bold))))
