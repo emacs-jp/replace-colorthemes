@@ -42,3 +42,19 @@ Please request by [issues](https://github.com/emacs-jp/replace-colorthemes/issue
 ### subtle-hacker
 
 ![subtle-hacker](images/subtle-hacker-theme.png)
+
+### subtle-blue
+
+![subtle-blue](images/subtle-blue-theme.png)
+
+### snowish
+
+![snowish](images/snowish-theme.png)
+
+### deep-blue
+
+![deep-blue](images/deep-blue-theme.png)
+
+### dark-blue
+
+![dark-blue](images/dark-blue-theme.png)
