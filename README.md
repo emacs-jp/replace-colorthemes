@@ -74,3 +74,7 @@ Please request by [issues](https://github.com/emacs-jp/replace-colorthemes/issue
 ### ryerson
 
 ![ryerson](images/ryerson-theme.png)
+
+### pok-wog
+
+![pok-wog](images/pok-wog-theme.png)
