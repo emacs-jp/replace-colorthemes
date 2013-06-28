@@ -58,3 +58,19 @@ Please request by [issues](https://github.com/emacs-jp/replace-colorthemes/issue
 ### dark-blue
 
 ![dark-blue](images/dark-blue-theme.png)
+
+### retro-green
+
+![retro-green](images/retro-green-theme.png)
+
+### retro-orange
+
+![retro-orange](images/retro-orange-theme.png)
+
+### whateveryouwant
+
+![whateveryouwant](images/whateveryouwant-theme.png)
+
+### ryerson
+
+![ryerson](images/ryerson-theme.png)
