@@ -78,3 +78,15 @@ Please request by [issues](https://github.com/emacs-jp/replace-colorthemes/issue
 ### pok-wog
 
 ![pok-wog](images/pok-wog-theme.png)
+
+### kingsajz
+
+![kingsajz](images/kingsajz-theme.png)
+
+### scintilla
+
+![scintilla](images/scintilla-theme.png)
+
+### taming-mr-arneson
+
+![taming-mr-arneson](images/taming-mr-arneson-theme.png)
