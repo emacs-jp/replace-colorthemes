@@ -90,3 +90,11 @@ Please request by [issues](https://github.com/emacs-jp/replace-colorthemes/issue
 ### taming-mr-arneson
 
 ![taming-mr-arneson](images/taming-mr-arneson-theme.png)
+
+### comidia
+
+![comidia](images/comidia-theme.png)
+
+### aalto-dark
+
+![aalto-dark](images/aalto-dark-theme.png)
