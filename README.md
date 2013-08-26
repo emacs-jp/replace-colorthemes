@@ -98,3 +98,55 @@ Please request by [issues](https://github.com/emacs-jp/replace-colorthemes/issue
 ### aalto-dark
 
 ![aalto-dark](images/aalto-dark-theme.png)
+
+### vim-colors
+
+![vim-colors](images/vim-colors-theme.png)
+
+### lethe
+
+![lethe](images/lethe-theme.png)
+
+### dark-erc
+
+![lethe](images/dark-erc-theme.png)
+
+### greiner
+
+![greiner](images/greiner-theme.png)
+
+### dark-font-lock
+
+![dark-font-lock](images/dark-font-lock-theme.png)
+
+### andreas
+
+![andreas](images/andreas-theme.png)
+
+### marine
+
+![marine](images/marine-theme.png)
+
+### resolve
+
+![resolve](images/resolve-theme.png)
+
+### gtk-ide
+
+![gtk-ide](images/gtk-ide-theme.png)
+
+### arjen
+
+![arjen](images/arjen-theme.png)
+
+### renegade
+
+![renegade](images/renegade-theme.png)
+
+### marquardt
+
+![marquardt](images/marquardt-theme.png)
+
+### dark-green
+
+![dark-green](images/dark-green-theme.png)
