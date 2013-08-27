@@ -3,6 +3,10 @@
 
 ![aalto-dark](images/aalto-dark-theme.png)
 
+### aalto-light
+
+![aalto-light](images/aalto-light-theme.png)
+
 ### aliceblue
 
 ![aliceblue](images/aliceblue-theme.png)
@@ -27,6 +31,10 @@
 
 ![bharadwaj-slate](images/bharadwaj-slate-theme.png)
 
+### bharadwaj
+
+![bharadwaj](images/bharadwaj-theme.png)
+
 ### billw
 
 ![billw](images/billw-theme.png)
@@ -34,6 +42,14 @@
 ### black-on-gray
 
 ![black-on-gray](images/black-on-gray-theme.png)
+
+### blippblopp
+
+![blippblopp](images/blippblopp-theme.png)
+
+### blue-erc
+
+![blue-erc](images/blue-erc-theme.png)
 
 ### blue-eshell
 
@@ -62,6 +78,10 @@
 ### clarity
 
 ![clarity](images/clarity-theme.png)
+
+### classic
+
+![classic](images/classic-theme.png)
 
 ### comidia
 
@@ -95,6 +115,10 @@
 
 ![dark-info](images/dark-info-theme.png)
 
+### dark-laptop
+
+![dark-laptop](images/dark-laptop-theme.png)
+
 ### deep-blue
 
 ![deep-blue](images/deep-blue-theme.png)
@@ -102,6 +126,10 @@
 ### desert
 
 ![desert](images/desert-theme.png)
+
+### digital-ofs1
+
+![digital-ofs1](images/digital-ofs1-theme.png)
 
 ### emacs-21
 
@@ -151,13 +179,25 @@
 
 ![gtk-ide](images/gtk-ide-theme.png)
 
+### high-contrast
+
+![high-contrast](images/high-contrast-theme.png)
+
 ### hober
 
 ![hober](images/hober-theme.png)
 
+### infodoc
+
+![infodoc](images/infodoc-theme.png)
+
 ### jb-simple
 
 ![jb-simple](images/jb-simple-theme.png)
+
+### jedit-grey
+
+![jedit-grey](images/jedit-grey-theme.png)
 
 ### jonadabian
 
@@ -211,6 +251,22 @@
 
 ![matrix](images/matrix-theme.png)
 
+### midnight
+
+![midnight](images/midnight-theme.png)
+
+### mistyday
+
+![mistyday](images/mistyday-theme.png)
+
+### montz
+
+![montz](images/montz-theme.png)
+
+### oswald
+
+![oswald](images/oswald-theme.png)
+
 ### parus
 
 ![parus](images/parus-theme.png)
@@ -263,6 +319,10 @@
 
 ![ryerson](images/ryerson-theme.png)
 
+### salmon-diff
+
+![salmon-diff](images/salmon-diff-theme.png)
+
 ### salmon-font-lock
 
 ![salmon-font-lock](images/salmon-font-lock-theme.png)
@@ -286,6 +346,10 @@
 ### sitaramv-solaris
 
 ![sitaramv-solaris](images/sitaramv-solaris-theme.png)
+
+### snow
+
+![snow](images/snow-theme.png)
 
 ### snowish
 

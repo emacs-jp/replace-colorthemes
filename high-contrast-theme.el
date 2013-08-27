@@ -1,5 +1,4 @@
-
-;;; standard-theme.el --- standard theme
+;;; high-contrast-theme.el --- high-contrast theme
 
 ;; Copyright (C) 2005, 2006  Xavier Maillard <zedek@gnu.org>
 ;; Copyright (C) 2005, 2006  Brian Palmer <bpalmer@gmail.com>
@@ -24,19 +23,19 @@
 
 ;;; Commentary:
 ;;
-;; Port of standard theme from `color-themes'
+;; Port of high-contrast theme from `color-themes'
 
 ;;; Code:
 
-(deftheme standard
-  "standard theme")
+(deftheme high-contrast
+  "high-contrast theme")
 
 (custom-theme-set-faces
- 'standard
+ 'high-contrast
 
  '(default ((t (:background "white" :foreground "black"))))
  '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "black"))))
+ '(cursor ((t (:foregound "red"))))
  '(border ((t (:foregound "black"))))
 
  '(Man-overstrike-face ((t (:bold t))))
@@ -53,9 +52,8 @@
  '(help-highlight-face ((t (:underline t))))
  '(list-matching-lines-face ((t (:bold t))))
  '(view-highlight-face ((t (:background "darkseagreen2"))))
-
- '(bold ((t (:bold t))))
- '(bold-italic ((t (:bold t :italic t))))
+ '(bold ((t (:bold t :underline t))))
+ '(bold-italic ((t (:bold t :underline t))))
  '(calendar-today-face ((t (:underline t))))
  '(cperl-array-face ((t (:foreground "Blue" :background "lightyellow2" :bold t))))
  '(cperl-hash-face ((t (:foreground "Red" :background "lightyellow2" :bold t :italic t))))
@@ -109,15 +107,15 @@
  '(fixed ((t (:bold t))))
  '(flyspell-duplicate-face ((t (:foreground "Gold3" :bold t :underline t))))
  '(flyspell-incorrect-face ((t (:foreground "OrangeRed" :bold t :underline t))))
- '(font-lock-builtin-face ((t (:foreground "Orchid"))))
- '(font-lock-comment-face ((t (:foreground "Firebrick"))))
- '(font-lock-constant-face ((t (:foreground "CadetBlue"))))
- '(font-lock-function-name-face ((t (:foreground "Blue"))))
- '(font-lock-keyword-face ((t (:foreground "Purple"))))
- '(font-lock-string-face ((t (:foreground "RosyBrown"))))
- '(font-lock-type-face ((t (:foreground "ForestGreen"))))
- '(font-lock-variable-name-face ((t (:foreground "DarkGoldenrod"))))
- '(font-lock-warning-face ((t (:foreground "Red" :bold t))))
+ '(font-lock-builtin-face ((t (:bold t :foreground "Red"))))
+ '(font-lock-comment-face ((t (:bold t :foreground "Firebrick"))))
+ '(font-lock-constant-face ((t (:bold t :underline t :foreground "Blue"))))
+ '(font-lock-function-name-face ((t (:bold t :foreground "Blue"))))
+ '(font-lock-keyword-face ((t (:bold t :foreground "Purple"))))
+ '(font-lock-string-face ((t (:bold t :foreground "DarkGreen"))))
+ '(font-lock-type-face ((t (:bold t :foreground "ForestGreen"))))
+ '(font-lock-variable-name-face ((t (:bold t :foreground "DarkGoldenrod"))))
+ '(font-lock-warning-face ((t (:bold t :foreground "Red"))))
  '(fringe ((t (:background "grey95"))))
  '(gnus-cite-attribution-face ((t (:italic t))))
  '(gnus-cite-face-1 ((t (:foreground "MidnightBlue"))))
@@ -175,15 +173,15 @@
  '(gnus-summary-normal-ticked-face ((t (:foreground "firebrick"))))
  '(gnus-summary-normal-unread-face ((t (nil))))
  '(gnus-summary-selected-face ((t (:underline t))))
- '(highlight ((t (:background "darkseagreen2"))))
+ '(highlight ((t (:background "black" :foreground "white" :bold 1))))
  '(highlight-changes-delete-face ((t (:foreground "red" :underline t))))
  '(highlight-changes-face ((t (:foreground "red"))))
  '(highline-face ((t (:background "paleturquoise"))))
  '(holiday-face ((t (:background "pink"))))
- '(info-menu-5 ((t (:underline t))))
- '(info-node ((t (:bold t :italic t))))
+ '(info-menu-5 ((t (:underline t :bold t))))
+ '(info-node ((t (:bold t))))
  '(info-xref ((t (:bold t))))
- '(italic ((t (:italic t))))
+ '(italic ((t (:bold t :underline t))))
  '(makefile-space-face ((t (:background "hotpink"))))
  '(message-cited-text-face ((t (:foreground "red"))))
  '(message-header-cc-face ((t (:foreground "MidnightBlue"))))
@@ -194,12 +192,12 @@
  '(message-header-to-face ((t (:foreground "MidnightBlue" :bold t))))
  '(message-header-xheader-face ((t (:foreground "blue"))))
  '(message-separator-face ((t (:foreground "brown"))))
- '(modeline ((t (:foreground "white" :background "black"))))
- '(modeline-buffer-id ((t (:foreground "white" :background "black"))))
- '(modeline-mousable ((t (:foreground "white" :background "black"))))
- '(modeline-mousable-minor-mode ((t (:foreground "white" :background "black"))))
- '(region ((t (:background "gray"))))
- '(secondary-selection ((t (:background "paleturquoise"))))
+ '(modeline ((t (:background "black" :foreground "white" :bold 1))))
+ '(modeline-buffer-id ((t (:background "black" :foreground "white" :bold 1))))
+ '(modeline-mousable ((t (:background "black" :foreground "white" :bold 1))))
+ '(modeline-mousable-minor-mode ((t (:background "black" :foreground "white" :bold 1))))
+ '(region ((t (:background "black" :foreground "white" :bold 1))))
+ '(secondary-selection ((t (:background "black" :foreground "white" :bold 1))))
  '(show-paren-match-face ((t (:background "turquoise"))))
  '(show-paren-mismatch-face ((t (:foreground "white" :background "purple"))))
  '(speedbar-button-face ((t (:foreground "green4"))))
@@ -232,7 +230,7 @@
  '(term-whitebg ((t (:background "white"))))
  '(term-yellow ((t (:foreground "yellow"))))
  '(term-yellowbg ((t (:background "yellow"))))
- '(underline ((t (:underline t))))
+ '(underline ((t (:bold t :underline t))))
  '(vcursor ((t (:foreground "blue" :background "cyan" :underline t))))
  '(vhdl-font-lock-attribute-face ((t (:foreground "Orchid"))))
  '(vhdl-font-lock-directive-face ((t (:foreground "CadetBlue"))))
@@ -268,6 +266,6 @@
   (add-to-list 'custom-theme-load-path
                (file-name-as-directory (file-name-directory load-file-name))))
 
-(provide-theme 'standard)
+(provide-theme 'high-contrast)
 
-;;; standard-theme.el ends here
+;;; high-contrast-theme.el ends here
