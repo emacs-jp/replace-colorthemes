@@ -1,2 +1,0 @@
-* Not implemented
-  - [ ] dark-gnus (blue-gnusに依存する) (1ページ目)
