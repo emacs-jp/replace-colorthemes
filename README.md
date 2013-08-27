@@ -234,3 +234,51 @@ Please request by [issues](https://github.com/emacs-jp/replace-colorthemes/issue
 ### wheat
 
 ![wheat](images/wheat-theme.png)
+
+### beige-diff
+
+![beige-diff](images/beige-diff-theme.png)
+
+### beige-eshell
+
+![beige-eshell](images/beige-eshell-theme.png)
+
+### goldenrod
+
+![goldenrod](images/goldenrod-theme.png)
+
+### jb-simple
+
+![jb-simple](images/jb-simple-theme.png)
+
+### jsc-dark
+
+![jsc-dark](images/jsc-dark-theme.png)
+
+### parus
+
+![parus](images/parus-theme.png)
+
+### pierson
+
+![pierson](images/pierson-theme.png)
+
+### ramangalahy
+
+![ramangalahy](images/ramangalahy-theme.png)
+
+### raspopovic
+
+![raspopovic](images/raspopovic-theme.png)
+
+### standard-ediff
+
+![standard-ediff](images/standard-ediff-theme.png)
+
+### taylor
+
+![taylor](images/taylor-theme.png)
+
+### xemacs
+
+![xemacs](images/xemacs-theme.png)
