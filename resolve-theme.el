@@ -160,7 +160,8 @@
  '(message-header-xheader-face ((t (:foreground "blue"))))
  '(message-mml-face ((t (:foreground "ForestGreen"))))
  '(message-separator-face ((t (:foreground "misty rose"))))
- '(modeline ((t (:foreground "white" :background "#001040"))))
+ '(modeline ((t (:foreground "white" :background "#001040"
+                 :box (:line-width -1 :style released-button)))))
  '(modeline-buffer-id ((t (:foreground "white" :background "#001040"))))
  '(modeline-mousable ((t (:foreground "white" :background "#001040"))))
  '(modeline-mousable-minor-mode ((t (:foreground "white" :background "#001040"))))

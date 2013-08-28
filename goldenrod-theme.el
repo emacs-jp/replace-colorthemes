@@ -143,14 +143,16 @@
  '(isearch-lazy-highlight-face ((t (:background "DarkOliveGreen4"))))
  '(italic ((t (:italic t :foreground "lavender"))))
  '(menu ((t (:background "gray25" :foreground "lemon chiffon"))))
- '(modeline ((t (:background "gray40" :foreground "lemon chiffon"))))
+ '(modeline ((t (:background "gray40" :foreground "lemon chiffon"
+                 :box (:line-width 1 :style released-button)))))
  '(modeline-buffer-id ((t (:background "AntiqueWhite4" :foreground "lemon chiffon"))))
  '(modeline-mousable ((t (:background "AntiqueWhite4" :foreground "lemon chiffon"))))
  '(modeline-mousable-minor-mode ((t (:background "wheat" :foreground "lemon chiffon"))))
  '(mode-line-inactive ((t (:background "gray20" :foreground "lemon chiffon"))))
  '(region ((t (:background "dark olive green"))))
  '(secondary-selection ((t (:background "dark green"))))
- '(tool-bar ((t (:background "gray25" :foreground "lemon chiffon"))))
+ '(tool-bar ((t (:background "gray25" :foreground "lemon chiffon"
+                 :box (:line-width 1 :style released-button)))))
  '(underline ((t (:underline t)))))
 
 ;;;###autoload

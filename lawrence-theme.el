@@ -223,7 +223,8 @@
  '(isearch ((t (:background "seagreen" :foreground "black"))))
  '(isearch-lazy-highlight-face ((t (:background "darkseagreen" :foreground "black"))))
  '(italic ((t (:italic t :foreground "#00CC00" :background "black" :slant oblique))))
- '(menu ((t (:bold t :background "black" :foreground "green" :weight semi-bold))))
+ '(menu ((t (:bold t :background "black" :foreground "green" :weight semi-bold
+             :box (:line-width -1 :color "#606060")))))
  '(message-cited-text-face ((t (:italic t :foreground "#00CC00" :background "black" :slant oblique))))
  '(message-header-cc-face ((t (nil))))
  '(message-header-name-face ((t (nil))))
@@ -235,8 +236,10 @@
  '(message-mml-face ((t (:italic t :foreground "#00CC00" :background "black" :slant oblique))))
  '(message-separator-face ((t (nil))))
  '(minibuffer-prompt ((t (:background "black" :foreground "seagreen"))))
- '(mode-line ((t (:bold t :background "#404040" :foreground "green" :weight semi-bold))))
- '(mode-line-inactive ((t (:bold t :weight semi-bold  :foreground "green" :background "#101010"))))
+ '(mode-line ((t (:bold t :background "#404040" :foreground "green" :weight semi-bold
+                  :box (:line-width -1 :color "#606060")))))
+ '(mode-line-inactive ((t (:bold t :weight semi-bold  :foreground "green"
+                           :box (:line-width -1 :color "#606060") :background "#101010"))))
  '(mouse ((t (:background "black"))))
  '(paren-face ((t (:background "black" :foreground "darkgreen"))))
  '(paren-face-match ((t (:background "black" :foreground "springgreen"))))
@@ -249,12 +252,16 @@
  '(semantic-unmatched-syntax-face ((t (:underline "red"))))
  '(sgml-end-tag-face ((t (:foreground "seagreen"))))
  '(sgml-start-tag-face ((t (:foreground "seagreen"))))
- '(tabbar-button-face ((t (:background "black" :foreground "#00cc00"))))
+ '(tabbar-button-face ((t (:background "black" :foreground "#00cc00"
+                           :box (:line-width 2 :color "black" :style released-button)))))
  '(tabbar-default-face ((t (:background "black" :foreground "#00cc00"))))
- '(tabbar-selected-face ((t (:background "black" :foreground "springgreen"))))
- '(tabbar-separator-face ((t (:foreground "#00cc00" :background "black"))))
+ '(tabbar-selected-face ((t (:background "black" :foreground "springgreen"
+                             :box (:line-width 2 :color "black" :style released-button)))))
+ '(tabbar-separator-face ((t (:foreground "#00cc00" :background "black"
+                              :box (:line-width 2 :color "black" :style pressed-button)))))
  '(tabbar-unselected-face ((t (:background "black" :foreground "seagreen"))))
-;; '(tooltip ((t (nil))))
+ '(tool-bar ((t (:box (:line-width 1 :style released-button)))))
+ '(tooltip ((t (nil))))
  '(trailing-whitespace ((t (:background "lightseagreen" :foreground "black"))))
  '(underline ((t (:foreground "#00CC00" :background "black" :underline t))))
  '(variable-pitch ((t (:underline nil :foreground "#00CC00" :background "black"))))

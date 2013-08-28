@@ -67,8 +67,10 @@
  '(cparen-conditional-clause-face ((t (:foreground "RoyalBlue"))))
  '(cparen-normal-paren-face ((t (:foreground "grey50"))))
  '(cursor ((t (:background "orange"))))
- '(custom-button-face ((t (:background "lightgrey" :foreground "black"))))
- '(custom-button-pressed-face ((t (:background "lightgrey" :foreground "black"))))
+ '(custom-button-face ((t (:background "lightgrey" :foreground "black"
+                           :box (:line-width 2 :style released-button)))))
+ '(custom-button-pressed-face ((t (:background "lightgrey" :foreground "black"
+                                   :box (:line-width 2 :style pressed-button)))))
  '(custom-changed-face ((t (:background "blue" :foreground "white"))))
  '(custom-comment-face ((t (:background "dim gray"))))
  '(custom-comment-tag-face ((t (:foreground "gray80"))))
@@ -104,7 +106,8 @@
  '(font-lock-variable-name-face ((t (:foreground "LightGoldenrod"))))
  '(font-lock-warning-face ((t (:bold t :foreground "Pink" :weight bold))))
  '(fringe ((t (:background "grey10"))))
- '(header-line ((t (:background "grey20" :foreground"grey90"))))
+ '(header-line ((t (:background "grey20" :foreground"grey90"
+                    :box (:line-width -1 :style released-button)))))
  '(highlight ((t (:background "darkolivegreen"))))
  '(info-header-node ((t (:italic t :bold t :weight bold :foreground "white"))))
  '(info-header-xref ((t (:bold t :weight bold :foreground "cyan"))))
@@ -133,7 +136,8 @@
  '(jde-java-font-lock-pre-face ((t (nil))))
  '(jde-java-font-lock-underline-face ((t (:underline t))))
  '(menu ((t (nil))))
- '(mode-line ((t (:background "grey75" :foreground "black"))))
+ '(mode-line ((t (:background "grey75" :foreground "black"
+                  :box (:line-width -1 :style released-button)))))
  '(mouse ((t (:background "yellow"))))
  '(region ((t (:background "blue3"))))
  '(scroll-bar ((t (nil))))
@@ -152,7 +156,8 @@
  '(speedbar-selected-face ((t (:foreground "red" :underline t))))
  '(speedbar-separator-face ((t (:background "blue" :foreground "white" :overline "gray"))))
  '(speedbar-tag-face ((t (:foreground "yellow"))))
- '(tool-bar ((t (:background "grey75" :foreground "black"))))
+ '(tool-bar ((t (:background "grey75" :foreground "black"
+                 :box (:line-width 1 :style released-button)))))
  '(trailing-whitespace ((t (:background "red"))))
  '(underline ((t (:underline t))))
  '(variable-pitch ((t (:family "helv"))))

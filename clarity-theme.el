@@ -75,7 +75,7 @@
  '(ibuffer-special-buffer-face ((t (:foreground "Cyan"))))
  '(ibuffer-title-face ((t (:foreground "PaleGreen"))))
  '(fringe ((t (:background "grey10"))))
- '(header-line ((t (:foreground "grey20" :background "grey90"))))
+ '(header-line ((t (:box (:line-width -1 :style released-button) :foreground "grey20" :background "grey90" :box nil))))
  '(highlight ((t (:background "darkolivegreen"))))
  '(ibuffer-deletion-face ((t (:foreground "red"))))
  '(ibuffer-marked-face ((t (:foreground "green"))))
@@ -83,7 +83,8 @@
  '(isearch-lazy-highlight-face ((t (:background "paleturquoise4"))))
  '(italic ((t (:italic t :slant italic))))
  '(menu ((t (nil))))
- '(mode-line ((t (:foreground "yellow" :background "darkslateblue"))))
+ '(mode-line ((t (:foreground "yellow" :background "darkslateblue"
+                  :box (:line-width -1 :style released-button)))))
  '(mouse ((t (:background "white"))))
  '(region ((t (:background "blue"))))
  '(scroll-bar ((t (nil))))
@@ -99,7 +100,8 @@
  '(show-block-face9 ((t (:background "gray50"))))
  '(show-paren-match-face ((t (:background "turquoise"))))
  '(show-paren-mismatch-face ((t (:background "purple" :foreground "white"))))
- '(tool-bar ((t (:background "grey75" :foreground "black"))))
+ '(tool-bar ((t (:background "grey75" :foreground "black"
+                 :box (:line-width 1 :style released-button)))))
  '(tooltip ((t (:background "lightyellow" :foreground "black"))))
  '(trailing-whitespace ((t (:background "red"))))
  '(underline ((t (:underline t))))

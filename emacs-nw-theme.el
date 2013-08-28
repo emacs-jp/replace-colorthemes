@@ -85,8 +85,10 @@
  '(cperl-hash-face ((t (:italic t :bold t :background "lightyellow2" :foreground "Red" :weight bold))))
  '(cperl-nonoverridable-face ((t (:foreground "chartreuse3"))))
  '(cursor ((t (:background "black"))))
- '(custom-button-face ((t (:background "lightgrey" :foreground "black"))))
- '(custom-button-pressed-face ((t (:background "lightgrey" :foreground "black"))))
+ '(custom-button-face ((t (:background "lightgrey" :foreground "black"
+                           :box (:line-width 2 :style released-button)))))
+ '(custom-button-pressed-face ((t (:background "lightgrey" :foreground "black"
+                                   :box (:line-width 2 :style pressed-button)))))
  '(custom-changed-face ((t (:background "blue" :foreground "white"))))
  '(custom-comment-face ((t (:background "gray85"))))
  '(custom-comment-tag-face ((t (:foreground "blue4"))))
@@ -248,7 +250,7 @@
  '(gnus-summary-normal-ticked-face ((t (:foreground "firebrick"))))
  '(gnus-summary-normal-unread-face ((t (nil))))
  '(gnus-summary-selected-face ((t (:underline t))))
- '(header-line ((t (:background "grey90" :foreground "grey20"))))
+ '(header-line ((t (:box (:line-width -1 :style released-button) :background "grey90" :foreground "grey20" :box nil))))
  '(hi-black-b ((t (:bold t :weight bold))))
  '(hi-black-hb ((t (:bold t :family "helv" :weight bold :height 1.67))))
  '(hi-blue ((t (:background "light blue"))))
@@ -276,7 +278,8 @@
  '(log-view-file-face ((t (:bold t :background "grey70" :weight bold))))
  '(log-view-message-face ((t (:background "grey85"))))
  '(makefile-space-face ((t (:background "hotpink"))))
- '(menu ((t (:background "grey50" :foreground "white"))))
+ '(menu ((t (:background "grey50" :foreground "white"
+             :box (:line-width -1 :style released-button)))))
  '(message-cited-text-face ((t (:foreground "red"))))
  '(message-header-cc-face ((t (:foreground "MidnightBlue"))))
  '(message-header-name-face ((t (:foreground "cornflower blue"))))
@@ -287,11 +290,16 @@
  '(message-header-xheader-face ((t (:foreground "blue"))))
  '(message-mml-face ((t (:foreground "ForestGreen"))))
  '(message-separator-face ((t (:foreground "brown"))))
- '(mode-line ((t (:background "grey50" :foreground "white"))))
- '(modeline ((t (:background "grey50" :foreground "white"))))
- '(modeline-buffer-id ((t (:bold t :background "grey75" :foreground "black"))))
- '(modeline-mousable ((t (:background "grey75" :foreground "black"))))
- '(modeline-mousable-minor-mode ((t (:background "grey75" :foreground "black"))))
+ '(mode-line ((t (:background "grey50" :foreground "white"
+                  :box (:line-width -1 :style released-button)))))
+ '(modeline ((t (:background "grey50" :foreground "white"
+                 :box (:line-width -1 :style released-button)))))
+ '(modeline-buffer-id ((t (:bold t :background "grey75" :foreground "black"
+                           :box (:line-width -1 :style released-button)))))
+ '(modeline-mousable ((t (:background "grey75" :foreground "black"
+                          :box (:line-width -1 :style released-button)))))
+ '(modeline-mousable-minor-mode ((t (:background "grey75" :foreground "black"
+                                     :box (:line-width -1 :style released-button)))))
  '(mouse ((t (:background "black"))))
  '(primary-selection ((t (:background "lightgoldenrod2"))))
  '(reb-match-0 ((t (:background "lightblue"))))
@@ -344,7 +352,8 @@
  '(term-yellowbg ((t (:background "yellow" :foreground "black"))))
  '(tex-math-face ((t (:foreground "RosyBrown"))))
  '(texinfo-heading-face ((t (:foreground "Blue"))))
- '(tool-bar ((t (:background "grey75" :foreground "black"))))
+ '(tool-bar ((t (:background "grey75" :foreground "black"
+                 :box (:line-width 1 :style released-button)))))
  '(tooltip ((t (:background "lightyellow" :foreground "black"))))
  '(trailing-whitespace ((t (:background "red"))))
  '(underline ((t (:underline t))))

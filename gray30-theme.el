@@ -65,8 +65,10 @@
  '(comint-highlight-input ((t (:bold t :weight bold))))
  '(comint-highlight-prompt ((t (:foreground "cyan"))))
  '(cursor ((t (:background "black"))))
- '(custom-button-face ((t (:background "lightgrey" :foreground "black"))))
- '(custom-button-pressed-face ((t (:background "lightgrey" :foreground "black"))))
+ '(custom-button-face ((t (:background "lightgrey" :foreground "black"
+                           :box (:line-width 2 :style released-button)))))
+ '(custom-button-pressed-face ((t (:background "lightgrey" :foreground "black"
+                                   :box (:line-width 2 :style pressed-button)))))
  '(custom-changed-face ((t (:background "blue" :foreground "white"))))
  '(custom-comment-face ((t (:background "dim gray"))))
  '(custom-comment-tag-face ((t (:foreground "gray80"))))
@@ -131,7 +133,7 @@
  '(font-lock-variable-name-face ((t (:foreground "gold"))))
  '(font-lock-warning-face ((t (:bold t :foreground "Pink" :weight bold))))
  '(fringe ((t (:background "grey10"))))
- '(header-line ((t (:background "grey20" :foreground "grey90"))))
+ '(header-line ((t (:box (:line-width -1 :style released-button) :background "grey20" :foreground "grey90" :box nil))))
  '(highlight ((t (:background "darkolivegreen"))))
  '(isearch ((t (:background "palevioletred2" :foreground "brown4"))))
  '(isearch-lazy-highlight-face ((t (:background "paleturquoise4"))))
@@ -155,8 +157,10 @@
  '(jde-java-font-lock-underline-face ((t (:underline t))))
  '(menu ((t (nil))))
  '(minibuffer-prompt ((t (:foreground "cyan"))))
- '(mode-line ((t (:background "grey75" :foreground "black"))))
- '(mode-line-inactive ((t (:background "grey30" :foreground "grey80" :weight light))))
+ '(mode-line ((t (:background "grey75" :foreground "black"
+                  :box (:line-width -1 :style released-button)))))
+ '(mode-line-inactive ((t (:background "grey30" :foreground "grey80" :weight light
+                           :box (:line-width -1 :color "grey40" :style nil)))))
  '(mouse ((t (:background "black"))))
  '(primary-selection ((t (:background "blue3"))))
  '(region ((t (:background "blue3"))))
@@ -176,7 +180,8 @@
  '(speedbar-selected-face ((t (:foreground "red" :underline t))))
  '(speedbar-tag-face ((t (:foreground "yellow"))))
  '(template-message-face ((t (:bold t :weight bold))))
- '(tool-bar ((t (:background "grey75" :foreground "black"))))
+ '(tool-bar ((t (:background "grey75" :foreground "black"
+                 :box (:line-width 1 :style released-button)))))
  '(tooltip ((t (:background "lightyellow" :foreground "black"))))
  '(trailing-whitespace ((t (:background "red"))))
  '(underline ((t (:underline t))))

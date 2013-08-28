@@ -56,7 +56,8 @@
  '(isearch ((t (:background "blue" :foreground "cyan3"))))
  '(isearch-lazy-highlight-face ((t (:background "turquoise3" :foreground "black"))))
  '(menu ((t (nil))))
- '(mode-line ((t (:bold t :background "blue3" :foreground "white"))))
+ '(mode-line ((t (:bold t :background "blue3" :foreground "white" :weight bold
+                  :box (:line-width -1 :style released-button)))))
  '(mouse ((t (:background "white"))))
  '(region ((t (:bold t :background "white" :foreground "blue" :weight bold))))
  '(scroll-bar ((t (nil))))

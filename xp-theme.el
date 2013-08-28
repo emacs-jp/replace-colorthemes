@@ -66,8 +66,10 @@
  '(comint-highlight-input ((t (:bold t :weight bold))))
  '(comint-highlight-prompt ((t (:foreground "dark blue"))))
  '(cursor ((t (:background "black"))))
- '(custom-button-face ((t (:background "lightgrey" :foreground "black"))))
- '(custom-button-pressed-face ((t (:background "lightgrey" :foreground "black"))))
+ '(custom-button-face ((t (:background "lightgrey" :foreground "black"
+                           :box (:line-width 2 :style released-button)))))
+ '(custom-button-pressed-face ((t (:background "lightgrey" :foreground "black"
+                                   :box (:line-width 2 :style pressed-button)))))
  '(custom-changed-face ((t (:background "blue" :foreground "white"))))
  '(custom-comment-face ((t (:background "gray85"))))
  '(custom-comment-tag-face ((t (:foreground "blue4"))))
@@ -169,7 +171,8 @@
  '(speedbar-selected-face ((t (:foreground "red" :underline t))))
  '(speedbar-tag-face ((t (:foreground "brown"))))
  '(template-message-face ((t (:bold t :weight bold))))
- '(tool-bar ((t (:background "grey75" :foreground "black"))))
+ '(tool-bar ((t (:background "grey75" :foreground "black"
+                 :box (:line-width 1 :style released-button)))))
  '(tooltip ((t (:background "lightyellow" :foreground "black"))))
  '(trailing-whitespace ((t (:background "red"))))
  '(underline ((t (:underline t))))

@@ -44,7 +44,8 @@
  '(default ((t (nil))))
  '(bold ((t (:bold t :weight bold))))
  '(bold-italic ((t (:italic t :bold t :weight bold))))
- '(custom-button-face ((t (:background "lightgrey" :foreground "black"))))
+ '(custom-button-face ((t (:background "lightgrey" :foreground "black"
+                           :box (:line-width 2 :style released-button)))))
  '(custom-changed-face ((t (:background "blue" :foreground "white"))))
  '(custom-documentation-face ((t (nil))))
  '(custom-face-tag-face ((t (:bold t :weight bold :height 1.2))))

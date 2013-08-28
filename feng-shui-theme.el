@@ -70,7 +70,8 @@
  '(region ((t (:background "lavender" :foreground "black"))))
  '(scroll-bar ((t (nil))))
  '(secondary-selection ((t (:background "yellow"))))
- '(tool-bar ((t (:background "grey75" :foreground "black"))))
+ '(tool-bar ((t (:background "grey75" :foreground "black"
+                 :box (:line-width 1 :style released-button)))))
  '(trailing-whitespace ((t (:background "red"))))
  '(underline ((t (:underline t))))
  '(variable-pitch ((t (:family "helv"))))
