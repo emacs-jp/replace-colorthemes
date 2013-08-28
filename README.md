@@ -56,6 +56,7 @@ Please request by [issues](https://github.com/emacs-jp/replace-colorthemes/issue
 * [infodoc](screenshots.md#infodoc)
 * [jb-simple](screenshots.md#jb-simple)
 * [jedit-grey](screenshots.md#jedit-grey)
+* [jonadabian-slate](screenshots.md#jonadabian-slate)
 * [jonadabian](screenshots.md#jonadabian)
 * [jsc-dark](screenshots.md#jsc-dark)
 * [jsc-light](screenshots.md#jsc-light)

@@ -199,6 +199,10 @@
 
 ![jedit-grey](images/jedit-grey-theme.png)
 
+### jonadabian-slate
+
+![jonadabian-slate](images/jonadabian-slate-theme.png)
+
 ### jonadabian
 
 ![jonadabian](images/jonadabian-theme.png)
