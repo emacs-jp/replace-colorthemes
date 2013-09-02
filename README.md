@@ -5,6 +5,38 @@ This project replaces [color-theme](http://www.nongnu.org/color-theme/) with Ema
 Please request by [issues](https://github.com/emacs-jp/replace-colorthemes/issues) if you want me to port your favarite theme of colorthemes.
 
 
+## Installation
+
+```
+ # Download your favorite theme ~/.emacs.d
+ % cd ~/.emacs.d
+ % curl -O https://raw.github.com/emacs-jp/replace-colorthemes/master/aalto-dark-theme.el
+```
+
+And add theme configuration to you configuration file
+```lisp
+(load-theme 'aalto-dark t t)
+(enable-theme aalto-dark)
+```
+
+Or
+
+```
+ # Download all themes
+ % git clone https://github.com/emacs-jp/replace-colorthemes.git
+```
+
+And add following code to your configuration file
+```lisp
+;; Please set your themes directory to 'custom-theme-load-path
+(add-to-list 'custom-theme-load-path
+             (file-name-as-directory "your cloned directory path"))
+
+;; load your favorite theme
+(load-theme 'aalto-dark t t)
+(enable-theme aalto-dark)
+```
+
 ## Ported themes
 * [aalto-dark](screenshots.md#aalto-dark)
 * [aalto-light](screenshots.md#aalto-light)
