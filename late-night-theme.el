@@ -1,7 +1,6 @@
 ;;; late-night-theme.el --- late-night theme
 
-;; Copyright (C) 2005, 2006  Xavier Maillard <zedek@gnu.org>
-;; Copyright (C) 2005, 2006  Brian Palmer <bpalmer@gmail.com>
+;; Copyright (C) 2002 by Alex Schroeder
 ;; Copyright (C) 2013 by Syohei YOSHIDA
 
 ;; Author: Syohei YOSHIDA <syohex@gmail.com>

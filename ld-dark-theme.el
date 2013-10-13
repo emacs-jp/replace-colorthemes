@@ -1,8 +1,6 @@
 ;;; ld-dark-theme.el --- ld dark theme
 
-;; Copyright (C) 1999, 2000  Jonadab the Unsightly One <jonadab@bright.net>
-;; Copyright (C) 2000, 2001, 2002, 2003  Alex Schroeder <alex@gnu.org>
-;; Copyright (C) 2003, 2004, 2005, 2006  Xavier Maillard <zedek@gnu.org>
+;; Copyright (C) 2001 by Linh Dang
 ;; Copyright (C) 2013 by Syohei YOSHIDA
 
 ;; Author: Syohei YOSHIDA <syohex@gmail.com>

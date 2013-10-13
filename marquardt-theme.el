@@ -1,7 +1,6 @@
 ;;; marquardt-theme.el --- marquardt theme
 
-;; Copyright (C) 2005, 2006  Xavier Maillard <zedek@gnu.org>
-;; Copyright (C) 2005, 2006  Brian Palmer <bpalmer@gmail.com>
+;; Copyright (C) 2000 by Colin Marquardt
 ;; Copyright (C) 2013 by Syohei YOSHIDA
 
 ;; Author: Syohei YOSHIDA <syohex@gmail.com>

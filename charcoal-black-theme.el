@@ -1,7 +1,6 @@
 ;;; charcoal-black-theme.el --- charcoal-black theme
 
-;; Copyright (C) 2005, 2006  Xavier Maillard <zedek@gnu.org>
-;; Copyright (C) 2005, 2006  Brian Palmer <bpalmer@gmail.com>
+;; Copyright (C) 2003 by Lars Chr. Hausmann
 ;; Copyright (C) 2013 by Syohei YOSHIDA
 
 ;; Author: Syohei YOSHIDA <syohex@gmail.com>

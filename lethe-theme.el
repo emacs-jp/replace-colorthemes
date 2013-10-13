@@ -1,7 +1,6 @@
 ;;; lethe-theme.el --- lethe theme
 
-;; Copyright (C) 2005, 2006  Xavier Maillard <zedek@gnu.org>
-;; Copyright (C) 2005, 2006  Brian Palmer <bpalmer@gmail.com>
+;; Copyright (C) 2002 by Ivica Loncar
 ;; Copyright (C) 2013 by Syohei YOSHIDA
 
 ;; Author: Syohei YOSHIDA <syohex@gmail.com>
