@@ -1,6 +1,6 @@
 ;;; arjen-theme.el --- arjen theme
 
-;; Copyright (C) Copyright (C) 2001 -- 2008  Arjen Wiersma
+;; Copyright (C) 2001 -- 2008  Arjen Wiersma
 ;; Copyright (C) 2013 by Syohei YOSHIDA
 
 ;; Author: Arjen Wiersma <arjen@wiersma.org>
