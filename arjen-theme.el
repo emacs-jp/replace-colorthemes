@@ -3,7 +3,8 @@
 ;; Copyright (C) Copyright (C) 2001 -- 2008  Arjen Wiersma
 ;; Copyright (C) 2013 by Syohei YOSHIDA
 
-;; Author: Syohei YOSHIDA <syohex@gmail.com>
+;; Author: Arjen Wiersma <arjen@wiersma.org>
+;; Maintainers: Syohei YOSHIDA <syohex@gmail.com>
 ;; URL: https://github.com/emacs-jp/replace-colorthemes
 ;; Version: 0.01
 
