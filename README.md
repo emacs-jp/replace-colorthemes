@@ -16,7 +16,7 @@ Please request by [issues](https://github.com/emacs-jp/replace-colorthemes/issue
 And add theme configuration to you configuration file
 ```lisp
 (load-theme 'aalto-dark t t)
-(enable-theme aalto-dark)
+(enable-theme 'aalto-dark)
 ```
 
 Or
