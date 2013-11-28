@@ -141,3 +141,7 @@ And add following code to your configuration file
 * [word-perfect](screenshots.md#word-perfect)
 * [xemacs](screenshots.md#xemacs)
 * [xp](screenshots.md#xp)
+
+## 3rd Party Theme
+
+* [subdued](screenshots.md#subdued)
