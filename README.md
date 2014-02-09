@@ -4,6 +4,9 @@ This project replaces [color-theme](http://www.nongnu.org/color-theme/) with Ema
 
 Please request by [issues](https://github.com/emacs-jp/replace-colorthemes/issues) if you want me to port your favarite theme of colorthemes.
 
+## Screenshot
+
+Screenshots are [here](screenshots.md)
 
 ## Installation
 
