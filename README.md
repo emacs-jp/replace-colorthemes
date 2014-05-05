@@ -37,7 +37,7 @@ And add following code to your configuration file
 
 ;; load your favorite theme
 (load-theme 'aalto-dark t t)
-(enable-theme aalto-dark)
+(enable-theme 'aalto-dark)
 ```
 
 ## Ported themes
