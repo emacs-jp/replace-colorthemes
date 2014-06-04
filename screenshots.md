@@ -414,6 +414,10 @@
 
 ## 3rd Party Theme
 
+### julie
+
+![julie](images/julie-theme.png)
+
 ### subdued
 
 ![subdued](images/subdued-theme.png)

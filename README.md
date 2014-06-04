@@ -147,4 +147,5 @@ And add following code to your configuration file
 
 ## 3rd Party Theme
 
+* [julie](screenshots.md#julie)
 * [subdued](screenshots.md#subdued)
