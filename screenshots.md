@@ -84,6 +84,10 @@
 
 ![classic](images/classic-theme.png)
 
+### cobalt
+
+![cobalt](images/cobalt-theme.png)
+
 ### comidia
 
 ![comidia](images/comidia-theme.png)

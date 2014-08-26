@@ -62,6 +62,7 @@ And add following code to your configuration file
 * [charcoal-black](screenshots.md#charcoal-black)
 * [clarity](screenshots.md#clarity)
 * [classic](screenshots.md#classic)
+* [cobalt](screenshots.md#cobalt)
 * [comidia](screenshots.md#comidia)
 * [dark-blue](screenshots.md#dark-blue)
 * [dark-blue2](screenshots.md#dark-blue2)
