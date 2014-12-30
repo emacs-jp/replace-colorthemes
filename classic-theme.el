@@ -33,6 +33,9 @@
  'classic
 
  '(default ((t (:background "darkslategrey" :foreground "AntiqueWhite"))))
+ ;; avoid ugly random fringe color
+ '(fringe ((t (:background "darkslategrey"))))
+ 
  '(mouse ((t (:foregound "Grey"))))
  '(cursor ((t (:foregound "Red"))))
  '(border ((t (:foregound "black"))))
