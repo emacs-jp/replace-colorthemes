@@ -150,3 +150,4 @@ And add following code to your configuration file
 
 * [julie](screenshots.md#julie)
 * [subdued](screenshots.md#subdued)
+* [railscast](screenshots.md#railscast)
