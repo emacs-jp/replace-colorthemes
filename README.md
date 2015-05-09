@@ -13,7 +13,7 @@ Screenshots are [here](screenshots.md)
 ```
  # Download your favorite theme ~/.emacs.d
  % cd ~/.emacs.d
- % curl -O https://raw.githubusercontent.com/emacs-jp/replace-colorthemes/master/aalto-dark-theme.el
+ % curl -LO https://raw.githubusercontent.com/emacs-jp/replace-colorthemes/master/aalto-dark-theme.el
 ```
 
 And add theme configuration to you configuration file
