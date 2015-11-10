@@ -1,4 +1,4 @@
-# Replace color-theme project
+# color-theme-modern
 
 This project replaces [color-theme](http://www.nongnu.org/color-theme/) with Emacs 24 theme framework.
 
