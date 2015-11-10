@@ -1,4 +1,4 @@
-# color-theme-modern
+# color-theme-modern [![melpa badge][melpa-badge]][melpa-link] [![melpa stable badge][melpa-stable-badge]][melpa-stable-link]
 
 This project replaces [color-theme](http://www.nongnu.org/color-theme/) with Emacs 24 theme framework.
 
@@ -9,6 +9,15 @@ Please request by [issues](https://github.com/emacs-jp/replace-colorthemes/issue
 Screenshots are [here](screenshots.md)
 
 ## Installation
+
+All themes are available on [MELPA](https://melpa.org/) and [MELPA stable](https://stable.melpa.org/)
+
+You can install `color-theme-modern` with the following command.
+
+<kbd>M-x package-install [RET] color-theme-modern [RET]</kbd>
+
+NOTE: Package name is different from repository name.
+
 
 ```
  # Download your favorite theme ~/.emacs.d
@@ -151,3 +160,8 @@ And add following code to your configuration file
 * [julie](screenshots.md#julie)
 * [subdued](screenshots.md#subdued)
 * [railscast](screenshots.md#railscast)
+
+[melpa-link]: https://melpa.org/#/color-theme-modern
+[melpa-stable-link]: https://stable.melpa.org/#/color-theme-modern
+[melpa-badge]: https://melpa.org/packages/color-theme-modern-badge.svg
+[melpa-stable-badge]: https://stable.melpa.org/packages/color-theme-modern-badge.svg
