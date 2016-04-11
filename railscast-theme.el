@@ -48,7 +48,7 @@
  '(default ((t (:background "#232323" :foreground "#E6E1DC"))))
  '(border ((t (:foreground "#232323"))))
  '(mouse ((t (:foreground "sienna1"))))
- '(cursor ((t (:foreground "#5A647E"))))
+ '(cursor ((t (:background "#5A647E"))))
 
  '(blue ((t (:foreground "blue"))))
  '(bold ((t (:bold t))))

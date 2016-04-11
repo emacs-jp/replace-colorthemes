@@ -33,16 +33,14 @@
  'aliceblue
 
  '(default ((t (:background "AliceBlue" :foreground "DarkSlateGray4"))))
- '(mouse ((t (:foreground "black"))))
- '(cursor ((t (:foreground "black"))))
- '(border ((t (:foreground "black"))))
+ '(mouse ((t (:background "black"))))
+ '(cursor ((t (:background "black"))))
+ '(border ((t (:background "black"))))
 
  '(bold ((t (:bold t :weight bold))))
  '(bold-italic ((t (:italic t :bold t :slant italic :weight bold))))
- '(border ((t (:background "black"))))
  '(comint-highlight-input ((t (:bold t :weight bold))))
  '(comint-highlight-prompt ((t (:foreground "dark blue"))))
- '(cursor ((t (:background "black"))))
  '(custom-button-face ((t (:background "lightgrey" :foreground "black" :box (:line-width 2 :style released-button)))))
  '(custom-button-pressed-face ((t (:background "lightgrey" :foreground "black" :box (:line-width 2 :style pressed-button)))))
  '(custom-changed-face ((t (:background "blue" :foreground "white"))))
@@ -100,7 +98,6 @@
  '(modeline-buffer-id ((t (:background "grey75" :foreground "black"))))
  '(modeline-mousable ((t (:background "grey75" :foreground "black"))))
  '(modeline-mousable-minor-mode ((t (:background "grey75" :foreground "black"))))
- '(mouse ((t (:background "black"))))
  '(primary-selection ((t (:background "lightgoldenrod2"))))
  '(region ((t (:background "lightgoldenrod2"))))
  '(scroll-bar ((t (nil))))

@@ -33,9 +33,9 @@
  'xp
 
  '(default ((t (:background "lightyellow2" :foreground "gray20"))))
- '(mouse ((t (:foreground "black"))))
- '(cursor ((t (:foreground "black"))))
- '(border ((t (:foreground "black"))))
+ '(mouse ((t (:background "black"))))
+ '(cursor ((t (:background "black"))))
+ '(border ((t (:background "black"))))
 
  '(help-highlight-face ((t (:underline t))))
  '(list-matching-lines-face ((t (:bold t :weight bold))))
@@ -60,11 +60,9 @@
  '(bg:erc-color-face9 ((t (:background "green"))))
  '(bold ((t (:bold t :weight bold))))
  '(bold-italic ((t (:italic t :bold t :slant italic :weight bold))))
- '(border ((t (:background "black"))))
  '(button ((t (:underline t))))
  '(comint-highlight-input ((t (:bold t :weight bold))))
  '(comint-highlight-prompt ((t (:foreground "dark blue"))))
- '(cursor ((t (:background "black"))))
  '(custom-button-face ((t (:background "lightgrey" :foreground "black"
                            :box (:line-width 2 :style released-button)))))
  '(custom-button-pressed-face ((t (:background "lightgrey" :foreground "black"
@@ -151,7 +149,6 @@
  '(modeline-mousable ((t (:background "dodgerblue" :foreground "black"))))
  '(modeline-mousable-minor-mode ((t (:background "dodgerblue" :foreground "black"))))
  '(mode-line-inactive ((t (:italic t :underline "red" :overline "red" :background "white" :foreground "cadetblue" :box (:line-width -1 :color "grey75") :slant oblique :weight light))))
- '(mouse ((t (:background "black"))))
  '(primary-selection ((t (:background "lightgoldenrod2"))))
  '(region ((t (:background "lightgoldenrod2"))))
  '(scroll-bar ((t (nil))))

@@ -34,9 +34,9 @@
  'emacs-21
 
  '(default ((t (:background "white" :foreground "black"))))
- '(mouse ((t (:foreground "black"))))
- '(cursor ((t (:foreground "black"))))
- '(border ((t (:foreground "black"))))
+ '(mouse ((t (:background "black"))))
+ '(cursor ((t (:background "black"))))
+ '(border ((t (:background "black"))))
 
  '(Man-overstrike-face ((t (:bold t :weight bold))))
  '(Man-underline-face ((t (:underline t))))
@@ -68,7 +68,6 @@
  '(antlr-font-lock-tokenref-face ((t (:foreground "orange4"))))
  '(bold ((t (:bold t :weight bold))))
  '(bold-italic ((t (:italic t :bold t :slant italic :weight bold))))
- '(border ((t (:background "black"))))
  '(calendar-today-face ((t (:underline t))))
  '(change-log-acknowledgement-face ((t (:foreground "Firebrick"))))
  '(change-log-conditionals-face ((t (:foreground "DarkGoldenrod"))))
@@ -83,7 +82,6 @@
  '(cperl-array-face ((t (:bold t :background "lightyellow2" :foreground "Blue" :weight bold))))
  '(cperl-hash-face ((t (:italic t :bold t :background "lightyellow2" :foreground "Red" :slant italic :weight bold))))
  '(cperl-nonoverridable-face ((t (:foreground "chartreuse3"))))
- '(cursor ((t (:background "black"))))
  '(custom-button-face ((t (:background "lightgrey" :foreground "black"
                            :box (:line-width 2 :style released-button)))))
  '(custom-button-pressed-face ((t (:background "lightgrey" :foreground "black"
@@ -292,7 +290,6 @@
  '(modeline-buffer-id ((t (:bold t :background "grey75" :foreground "black" :box (:line-width -1 :style released-button)))))
  '(modeline-mousable ((t (:background "grey75" :foreground "black" :box (:line-width -1 :style released-button)))))
  '(modeline-mousable-minor-mode ((t (:background "grey75" :foreground "black" :box (:line-width -1 :style released-button)))))
- '(mouse ((t (:background "black"))))
  '(primary-selection ((t (:background "lightgoldenrod2"))))
  '(reb-match-0 ((t (:background "lightblue"))))
  '(reb-match-1 ((t (:background "aquamarine"))))

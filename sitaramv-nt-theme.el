@@ -35,7 +35,7 @@
 
  '(default ((t (:background "white" :foreground "black"))))
  '(mouse ((t (:foreground "sienna3"))))
- '(cursor ((t (:foreground "HotPink"))))
+ '(cursor ((t (:background "HotPink"))))
  '(border ((t (:foreground "Blue"))))
 
  '(modeline ((t (:foreground "black" :background "gold2"))))

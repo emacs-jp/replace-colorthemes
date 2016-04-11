@@ -33,9 +33,9 @@
  'vim-colors
 
  '(default ((t (:background "#ffffff" :foreground "#000000"))))
- '(mouse ((t (:foreground "#000000"))))
- '(cursor ((t (:foreground "#000000"))))
- '(border ((t (:foreground "black"))))
+ '(mouse ((t (:background "#000000"))))
+ '(cursor ((t (:background "#000000"))))
+ '(border ((t (:background "black"))))
 
  '(Man-overstrike-face ((t (:weight bold))))
  '(Man-underline-face ((t (:underline t))))
@@ -61,13 +61,11 @@
  '(Info-title-4-face ((t (:weight bold))))
  '(bold ((t (:weight bold))))
  '(bold-italic ((t (:italic t :weight bold))))
- '(border ((t (:background "black"))))
  '(comint-highlight-input ((t (:weight bold))))
  '(comint-highlight-prompt ((t (:foreground "dark blue"))))
  '(cperl-array-face ((t (:foreground "brown"))))
  '(cperl-hash-face ((t (:foreground "red"))))
  '(cperl-nonoverridable-face ((t (:foreground "#008b8b"))))
- '(cursor ((t (:background "#000000"))))
 
  '(font-lock-builtin-face ((t (:foreground "purple"))))
  '(font-lock-comment-face )
@@ -93,7 +91,6 @@
  '(italic ((t (:italic t))))
 
  '(mode-line ((t (:background "grey75" :foreground "black"))))
- '(mouse ((t (:background "#000000"))))
  '(region ((t (:background "lightgoldenrod2"))))
  '(rpm-spec-dir-face ((t (:foreground "green"))))
  '(rpm-spec-doc-face ((t (:foreground "magenta"))))

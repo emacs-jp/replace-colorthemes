@@ -34,7 +34,7 @@
 
  '(default ((t (:background "#00005a" :foreground "White"))))
  '(mouse ((t (:foreground "yellow"))))
- '(cursor ((t (:foreground "yellow"))))
+ '(cursor ((t (:background "yellow"))))
  '(border ((t (:foreground "black"))))
 
  '(gnus-mouse-face ((t (:background "darkolivegreen"))))

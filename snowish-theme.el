@@ -34,7 +34,7 @@
 
  '(default ((t (:background "snow2" :foreground "darkslategray"))))
  '(mouse ((t (:foreground "black"))))
- '(cursor ((t (:foreground "Red3"))))
+ '(cursor ((t (:background "Red3"))))
  '(border ((t (:foreground "black"))))
 
  '(blue ((t (:foreground "blue"))))

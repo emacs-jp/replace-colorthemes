@@ -33,9 +33,9 @@
  'feng-shui
 
  '(default ((t (:background "ivory" :foreground "black"))))
- '(mouse ((t (:foreground "slateblue"))))
- '(cursor ((t (:foreground "slateblue"))))
- '(border ((t (:foreground "black"))))
+ '(mouse ((t (:background "slateblue"))))
+ '(cursor ((t (:background "slateblue" :foreground "black"))))
+ '(border ((t (:background "black"))))
 
  '(help-highlight-face ((t (:underline t))))
  '(list-matching-lines-face ((t (:bold t :weight bold))))
@@ -44,8 +44,6 @@
 
  '(bold ((t (:bold t :weight bold))))
  '(bold-italic ((t (:italic t :bold t :weight bold))))
- '(border ((t (:background "black"))))
- '(cursor ((t (:background "slateblue" :foreground "black"))))
  '(fixed-pitch ((t (:family "courier"))))
  '(font-lock-builtin-face ((t (:foreground "black"))))
  '(font-lock-comment-face ((t (:italic t :background "seashell"))))
@@ -65,7 +63,6 @@
  '(italic ((t (:italic t))))
  '(menu ((t (nil))))
  '(mode-line ((t (:bold t :background "mistyRose" :foreground "navy" :underline t :weight bold))))
- '(mouse ((t (:background "slateblue"))))
  '(region ((t (:background "lavender" :foreground "black"))))
  '(scroll-bar ((t (nil))))
  '(secondary-selection ((t (:background "yellow"))))

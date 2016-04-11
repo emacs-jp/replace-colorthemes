@@ -34,7 +34,7 @@
 
  '(default ((t (:background "Beige" :foreground "black"))))
  '(mouse ((t (:foreground "black"))))
- '(cursor ((t (:foreground "Maroon"))))
+ '(cursor ((t (:background "Maroon"))))
  '(border ((t (:foreground "black"))))
 
  '(Man-overstrike-face ((t (:foreground "MediumSlateBlue"))))

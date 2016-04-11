@@ -34,7 +34,7 @@
 
  '(default ((t (:background "#9dcec9" :foreground "darkslategray"))))
  '(mouse ((t (:foreground "sienna1"))))
- '(cursor ((t (:foreground "yellow"))))
+ '(cursor ((t (:background "yellow"))))
  '(border ((t (:foreground "black"))))
 
  '(blue ((t (:foreground "blue"))))

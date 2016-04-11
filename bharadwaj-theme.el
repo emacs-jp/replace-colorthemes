@@ -34,7 +34,7 @@
 
  '(default ((t (:background "gainsboro" :foreground "black"))))
  '(mouse ((t (:foreground "grey15"))))
- '(cursor ((t (:foreground "grey15"))))
+ '(cursor ((t (:background "grey15"))))
  '(border ((t (:foreground "black"))))
 
  '(gnus-mouse-face ((t (:background "LightSkyBlue"))))

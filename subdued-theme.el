@@ -34,7 +34,7 @@
 
  '(default ((t (:background "#000" :foreground "#d3d7cf"))))
  '(mouse ((t (:foreground "black"))))
- '(cursor ((t (:foreground "#73d216"))))
+ '(cursor ((t (:background "#73d216"))))
  '(border ((t (:foreground "#73d216"))))
 
  '(font-lock-comment-face ((t (:foreground "#61635e")))) ; dark aluminum

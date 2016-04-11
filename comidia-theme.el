@@ -33,9 +33,9 @@
  'comidia
 
  '(default ((t (:background "black" :foreground "SteelBlue"))))
- '(mouse ((t (:foreground "SteelBlue"))))
- '(cursor ((t (:foreground "SteelBlue"))))
- '(border ((t (:foreground "black"))))
+ '(mouse ((t (:background "SteelBlue"))))
+ '(cursor ((t (:background "SteelBlue"))))
+ '(border ((t (:background "black"))))
 
  '(bg:erc-color-face0 ((t (:background "White"))))
  '(bg:erc-color-face1 ((t (:background "black"))))
@@ -55,10 +55,8 @@
  '(bg:erc-color-face9 ((t (:background "green"))))
  '(bold ((t (:bold t :weight bold))))
  '(bold-italic ((t (:italic t :bold t :slant italic :weight bold))))
- '(border ((t (:background "black"))))
  '(comint-highlight-input ((t (:bold t :weight bold))))
  '(comint-highlight-prompt ((t (:foreground "cyan"))))
- '(cursor ((t (:background "SteelBlue"))))
  '(erc-action-face ((t (:bold t :weight bold))))
  '(erc-bold-face ((t (:bold t :weight bold))))
  '(erc-dangerous-host-face ((t (:foreground "red"))))
@@ -162,7 +160,6 @@
  '(modeline-buffer-id ((t (:background "Gray10" :foreground "SteelBlue" :box (:line-width 1 :style none) :width condensed))))
  '(modeline-mousable-minor-mode ((t (:background "Gray10" :foreground "SteelBlue" :box (:line-width 1 :style none) :width condensed))))
  '(modeline-mousable ((t (:background "Gray10" :foreground "SteelBlue" :box (:line-width 1 :style none) :width condensed))))
- '(mouse ((t (:background "SteelBlue"))))
  '(primary-selection ((t (:background "blue3"))))
  '(region ((t (:background "blue3"))))
  '(scroll-bar ((t (:background "grey75"))))

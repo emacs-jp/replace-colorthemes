@@ -54,7 +54,7 @@
 
     ;;; color-theme mapping
    `(default ((t (:background ,julie-bg :foreground ,julie-fg))))
-   `(cursor ((t (:foreground  ,julie-orange))))
+   `(cursor ((t (:background  ,julie-orange))))
 
    ;;; define some reusable julie faces that we can inherit from afterwards
    `(julie-strong-1-face ((t (:foreground ,julie-yellow :weight bold))))

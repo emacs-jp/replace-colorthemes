@@ -36,7 +36,7 @@
  '(default ((t (:foreground "wheat" :background "darkslategrey"))))
 
  '(mouse ((t (:foreground "Grey"))))
- '(cursor ((t (:foreground "LightGray"))))
+ '(cursor ((t (:background "LightGray"))))
  '(border ((t (:foreground "black"))))
 
  '(bbdb-company ((t (:foreground "pale green"))))

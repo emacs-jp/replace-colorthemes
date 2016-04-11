@@ -33,7 +33,7 @@
 (let ((foreground "green")
       (faces '((default ((t (:background "black" :foreground "green"))))
                (mouse ((t (:foreground "green"))))
-               (cursor ((t (:foreground "green"))))
+               (cursor ((t (:background "green"))))
                (border ((t (:foreground "green")))))))
   (dolist (face (face-list))
     (cond ((memq face '(bold bold-italic))

@@ -33,7 +33,7 @@
  'infodoc
 
  '(default ((t (:background "wheat" :foreground "black"))))
- '(cursor ((t (:foreground "red"))))
+ '(cursor ((t (:background "red"))))
  '(border ((t (:foreground "black"))))
 
  '(blue ((t (:bold t :foreground "blue"))))

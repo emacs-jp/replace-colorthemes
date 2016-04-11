@@ -34,7 +34,7 @@
  'jonadabian
 
  '(default ((t (:background "#000055" :foreground "#CCBB77"))))
- '(cursor ((t (:foreground "medium turquoise"))))
+ '(cursor ((t (:background "medium turquoise"))))
 
  '(modeline ((t (:foreground "cyan" :background "#007080"))))
  '(modeline-buffer-id ((t (:foreground "cyan" :background "#007080"))))

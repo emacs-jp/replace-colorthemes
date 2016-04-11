@@ -35,7 +35,7 @@
 
  '(default ((t (:background "#304020" :foreground "navajo white"))))
  '(mouse ((t (:foreground "Grey"))))
- '(cursor ((t (:foreground "LightGray"))))
+ '(cursor ((t (:background "LightGray"))))
  '(border ((t (:foreground "black"))))
 
  '(button ((t (:bold t))))

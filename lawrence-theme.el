@@ -33,9 +33,9 @@
  'lawrence
 
  '(default ((t (:background "black" :foreground "#00CC00"))))
- '(mouse ((t (:foreground "black"))))
- '(cursor ((t (:foreground "green"))))
- '(border ((t (:foreground "black"))))
+ '(mouse ((t (:background "black"))))
+ '(cursor ((t (:background "green"))))
+ '(border ((t (:background "black"))))
 
  '(erc-button-face ((t (:bold t :foreground "#00CC00" :background "black"))))
  '(erc-button-mouse-face ((t (:foreground "#00CC00" :background "darkgreen"))))
@@ -69,11 +69,9 @@
  '(bg:erc-color-face9 ((t (:background "green"))))
  '(bold ((t (:bold t :foreground "#00CC00" :background "black"))))
  '(bold-italic ((t (:italic t :bold t :slant oblique :weight semi-bold))))
- '(border ((t (:background "black"))))
  '(button ((t (:underline t))))
  '(comint-highlight-input ((t (nil))))
  '(comint-highlight-prompt ((t (:bold t :foreground "#00CC00" :background "black" :weight bold))))
- '(cursor ((t (:background "green"))))
  '(custom-button-face ((t (:bold t :foreground "#00CC00" :background "black"))))
  '(custom-button-pressed-face ((t (nil))))
  '(custom-changed-face ((t (:italic t :foreground "#00CC00" :background "black" :slant oblique))))
@@ -239,7 +237,6 @@
                   :box (:line-width -1 :color "#606060")))))
  '(mode-line-inactive ((t (:bold t :weight semi-bold  :foreground "green"
                            :box (:line-width -1 :color "#606060") :background "#101010"))))
- '(mouse ((t (:background "black"))))
  '(paren-face ((t (:background "black" :foreground "darkgreen"))))
  '(paren-face-match ((t (:background "black" :foreground "springgreen"))))
  '(paren-face-mismatch ((t (:foreground "#00CC00" :background "black" :strike-through t))))

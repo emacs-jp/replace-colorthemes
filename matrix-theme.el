@@ -33,9 +33,9 @@
  'matrix
 
  '(default ((t (:background "black" :foreground "#7eff00"))))
- '(mouse ((t (:foreground "#7eff00"))))
- '(cursor ((t (:foreground "#7eff00"))))
- '(border ((t (:foreground "orange"))))
+ '(mouse ((t (:background "#7eff00"))))
+ '(cursor ((t (:background "#7eff00" :foreground "black"))))
+ '(border ((t (:background "orange"))))
 
  '(Buffer-menu-buffer-face ((t (nil))))
  '(CUA-global-mark-face ((t (nil))))
@@ -76,7 +76,6 @@
  '(blue ((t (nil))))
  '(bold ((t (:bold t :weight bold))))
  '(bold-italic ((t (:bold t :weight bold))))
- '(border ((t (:background "orange"))))
  '(border-glyph ((t (nil))))
  '(buffers-tab ((t (nil))))
  '(button ((t (nil))))
@@ -110,7 +109,6 @@
  '(cperl-hash-face ((t (nil))))
  '(cperl-invalid-face ((t (nil))))
  '(cperl-nonoverridable-face ((t (nil))))
- '(cursor ((t (:background "#7eff00" :foreground "black"))))
  '(custom-button-face ((t (nil))))
  '(custom-button-pressed-face ((t (nil))))
  '(custom-changed-face ((t (nil))))
@@ -463,7 +461,6 @@
  '(modeline-buffer-id ((t (:background "orange" :foreground "black"))))
  '(modeline-mousable ((t (:background "orange" :foreground "black"))))
  '(modeline-mousable-minor-mode ((t (:background "orange" :foreground "black"))))
- '(mouse ((t (nil))))
  '(mpg123-face-cur ((t (nil))))
  '(mpg123-face-slider ((t (nil))))
  '(my-tab-face ((t (nil))))

@@ -33,7 +33,7 @@
  'pierson
 
  '(default ((t (:background "AntiqueWhite" :foreground "black"))))
- '(cursor ((t (:foreground "Orchid"))))
+ '(cursor ((t (:background "Orchid"))))
  '(border ((t (:foreground "black"))))
 
  '(bold ((t (:bold t))))

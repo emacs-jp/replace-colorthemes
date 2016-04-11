@@ -37,7 +37,7 @@
  '(fringe ((t (:background "darkslategrey"))))
  
  '(mouse ((t (:foreground "Grey"))))
- '(cursor ((t (:foreground "Red"))))
+ '(cursor ((t (:background "Red"))))
  '(border ((t (:foreground "black"))))
 
  '(gnus-cite-attribution-face ((t (:lforeground "lemon chiffon" :bold t))))

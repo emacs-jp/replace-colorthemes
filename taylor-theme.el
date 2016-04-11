@@ -33,7 +33,7 @@
  'taylor
 
  '(default ((t (:background "black" :foreground "wheat"))))
- '(cursor ((t (:foreground "red"))))
+ '(cursor ((t (:background "red"))))
  '(border ((t (:foreground "black"))))
 
  '(gnus-mouse-face ((t (:background "black" :foreground "black"))))

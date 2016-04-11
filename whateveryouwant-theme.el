@@ -34,8 +34,8 @@
 
  '(default ((t (:background "white" :foreground "black"))))
  '(mouse ((t (:foreground "black"))))
- '(cursor ((t (:foreground "black"))))
- '(border ((t (:foreground "black"))))
+ '(cursor ((t (:background "black"))))
+ '(border ((t (:background "black"))))
 
  '(Info-title-1-face ((t (:bold t :weight bold :height 1.728))))
  '(Info-title-2-face ((t (:bold t :weight bold :height 1.44))))
@@ -53,7 +53,6 @@
  '(bbdb-name ((t (:underline t))))
  '(bold ((t (:bold t :foreground "gray40" :weight bold))))
  '(bold-italic ((t (:italic t :bold t :slant italic :weight bold))))
- '(border ((t (:background "black"))))
  '(calendar-today-face ((t (:underline t))))
  '(change-log-acknowledgement-face ((t (:foreground "Firebrick"))))
  '(change-log-conditionals-face ((t (:foreground "DarkGoldenrod"))))
@@ -68,7 +67,6 @@
  '(cperl-array-face ((t (:bold t :background "lightyellow2" :foreground "Blue" :weight bold))))
  '(cperl-hash-face ((t (:italic t :bold t :background "lightyellow2" :foreground "Red" :slant italic :weight bold))))
  '(cperl-nonoverridable-face ((t (:foreground "chartreuse3"))))
- '(cursor ((t (:background "black"))))
  '(custom-button-face ((t (:background "lightgrey" :foreground "black" :box (:line-width 2 :style released-button)))))
  '(custom-button-pressed-face ((t (:background "lightgrey" :foreground "black" :box (:line-width 2 :style pressed-button)))))
  '(custom-changed-face ((t (:background "blue" :foreground "white"))))

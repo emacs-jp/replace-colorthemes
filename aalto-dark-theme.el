@@ -35,7 +35,7 @@
 
  '(default ((t (:background "DeepSkyBlue3" :foreground "white"))))
  '(mouse ((t (:foreground "black"))))
- '(cursor ((t (:foreground "yellow"))))
+ '(cursor ((t (:background "yellow"))))
  '(border ((t (:foreground "black"))))
 
  '(bold ((t (:bold t :background "blue3" :foreground "white"))))

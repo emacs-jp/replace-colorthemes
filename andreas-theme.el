@@ -34,7 +34,7 @@
 
  '(default ((t (:background "white" :foreground "black"))))
  '(mouse ((t (:foreground "black"))))
- '(cursor ((t (:foreground "black"))))
+ '(cursor ((t (:background "black"))))
  '(border ((t (:foreground "black"))))
  '(OrangeRed ((t (nil))))
  '(gnus-mouse-face ((t (nil))))

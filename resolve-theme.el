@@ -33,9 +33,9 @@
  'resolve
 
  '(default ((t (:background "#00457f" :foreground "white smoke"))))
- '(mouse ((t (:foreground "white"))))
- '(cursor ((t (:foreground "DarkGoldenrod1"))))
- '(border ((t (:foreground "black"))))
+ '(mouse ((t (:background "white"))))
+ '(cursor ((t (:background "DarkGoldenrod1"))))
+ '(border ((t (:background "black"))))
 
  '(display-time-mail-face ((t (:foreground "white" :background "#001040")))-line)
  '(help-highlight-face ((t (:underline t))))
@@ -45,13 +45,11 @@
 
  '(bold ((t (:bold t :foreground "snow2" :weight bold))))
  '(bold-italic ((t (:italic t :bold t :weight bold))))
- '(border ((t (:background "black"))))
  '(calendar-today-face ((t (:underline t))))
  '(comint-highlight-input ((t (:bold t :weight bold))))
  '(comint-highlight-prompt ((t (:foreground "cyan"))))
  '(cperl-array-face ((t (:bold t :foreground "wheat" :weight bold))))
  '(cperl-hash-face ((t (:bold t :foreground "chartreuse" :weight bold))))
- '(cursor ((t (:background "DarkGoldenrod1"))))
  '(diary-face ((t (:foreground "yellow"))))
  '(erc-input-face ((t (:foreground "lightblue2"))))
  '(erc-notice-face ((t (:foreground "lightyellow3"))))
@@ -164,7 +162,6 @@
  '(modeline-buffer-id ((t (:foreground "white" :background "#001040"))))
  '(modeline-mousable ((t (:foreground "white" :background "#001040"))))
  '(modeline-mousable-minor-mode ((t (:foreground "white" :background "#001040"))))
- '(mouse ((t (:background "white"))))
  '(my-tab-face ((t (:background "SlateBlue1"))))
  '(p4-diff-del-face ((t (:bold t :foreground "salmon" :weight bold))))
  '(primary-selection ((t (:background "gray91" :foreground "DodgerBlue4"))))

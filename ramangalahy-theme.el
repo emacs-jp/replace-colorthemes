@@ -33,7 +33,7 @@
  'ramangalahy
 
  '(default ((t (:background "lightgrey" :foreground "black"))))
- '(cursor ((t (:foreground "blue"))))
+ '(cursor ((t (:background "blue"))))
  '(border ((t (:foreground "black"))))
 
  '(gnus-mouse-face ((t (:background "darkseagreen2"))))

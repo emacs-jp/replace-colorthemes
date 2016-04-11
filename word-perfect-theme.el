@@ -34,7 +34,7 @@
 
  '(default ((t (:background "blue4" :foreground "white"))))
  '(mouse ((t (:foreground "black"))))
- '(cursor ((t (:foreground "gold"))))
+ '(cursor ((t (:background "gold"))))
  '(border ((t (:foreground "black"))))
 
  '(ecb-source-in-directories-buffer-face ((t (:foreground "LightBlue1"))))
