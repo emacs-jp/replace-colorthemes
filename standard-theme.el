@@ -35,9 +35,9 @@
  'standard
 
  '(default ((t (:background "white" :foreground "black"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "black"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "black"))))
+ '(border ((t (:foreground "black"))))
 
  '(Man-overstrike-face ((t (:bold t))))
  '(Man-underline-face ((t (:underline t))))

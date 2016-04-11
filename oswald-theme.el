@@ -33,9 +33,9 @@
  'oswald
 
  '(default ((t (:background "black" :foreground "green"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "black"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "black"))))
+ '(border ((t (:foreground "black"))))
 
  '(list-matching-lines-face ((t (:bold t))))
  '(view-highlight-face ((t (:background "yellow" :foreground "red"))))

@@ -33,9 +33,9 @@
  'andreas
 
  '(default ((t (:background "white" :foreground "black"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "black"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "black"))))
+ '(border ((t (:foreground "black"))))
  '(OrangeRed ((t (nil))))
  '(gnus-mouse-face ((t (nil))))
  '(ispell-highlight-face ((t (nil))))

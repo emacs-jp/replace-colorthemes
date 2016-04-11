@@ -34,9 +34,9 @@
  'blue-sea
 
  '(default ((t (:background "MidnightBlue" :foreground "Grey"))))
- '(mouse ((t (:foregound "Grey"))))
- '(cursor ((t (:foregound "Grey"))))
- '(border ((t (:foregound "Grey"))))
+ '(mouse ((t (:foreground "Grey"))))
+ '(cursor ((t (:foreground "Grey"))))
+ '(border ((t (:foreground "Grey"))))
 
  '(gnus-cite-attribution-face ((t (:lforeground "lemon chiffon" :bold t))))
  '(gnus-cite-face-1 ((t (:foreground "LightSalmon"))))

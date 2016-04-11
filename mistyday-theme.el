@@ -33,9 +33,9 @@
  'mistyday
 
  '(default ((t (:background "mistyrose" :foreground "Black"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "deep pink"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "deep pink"))))
+ '(border ((t (:foreground "black"))))
 
  '(goto-address-mail-face ((t (:italic t))))
  '(goto-address-mail-mouse-face ((t (:background "forest green" :foreground "white smoke"))))

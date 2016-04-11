@@ -36,9 +36,9 @@
  ;; avoid ugly random fringe color
  '(fringe ((t (:background "darkslategrey"))))
  
- '(mouse ((t (:foregound "Grey"))))
- '(cursor ((t (:foregound "Red"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "Grey"))))
+ '(cursor ((t (:foreground "Red"))))
+ '(border ((t (:foreground "black"))))
 
  '(gnus-cite-attribution-face ((t (:lforeground "lemon chiffon" :bold t))))
  '(gnus-cite-face-1 ((t (:foreground "LightSalmon"))))

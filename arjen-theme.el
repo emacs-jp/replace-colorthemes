@@ -34,9 +34,9 @@
  'arjen
 
  '(default ((t (:background "black" :foreground "White"))))
- '(mouse ((t (:foregound "sienna1"))))
- '(cursor ((t (:foregound "yellow"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "sienna1"))))
+ '(cursor ((t (:foreground "yellow"))))
+ '(border ((t (:foreground "black"))))
 
  '(default ((t (:background "black" :foreground "white"))))
  '(blue ((t (:foreground "blue"))))

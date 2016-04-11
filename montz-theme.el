@@ -33,8 +33,8 @@
  'montz
 
  '(default ((t (:background "gray80" :foreground "black"))))
- '(cursor ((t (:foregound "Red3"))))
- '(border ((t (:foregound "black"))))
+ '(cursor ((t (:foreground "Red3"))))
+ '(border ((t (:foreground "black"))))
 
  '(gnus-mouse-face ((t (:background "darkseagreen2"))))
  '(smiley-mouse-face ((t (:background "darkseagreen2"))))

@@ -33,9 +33,9 @@
  'word-perfect
 
  '(default ((t (:background "blue4" :foreground "white"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "gold"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "gold"))))
+ '(border ((t (:foreground "black"))))
 
  '(ecb-source-in-directories-buffer-face ((t (:foreground "LightBlue1"))))
  '(gnus-mouse-face ((t (:background "steel blue" :foreground "black"))))

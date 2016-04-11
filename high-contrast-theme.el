@@ -34,9 +34,9 @@
  'high-contrast
 
  '(default ((t (:background "white" :foreground "black"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "red"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "red"))))
+ '(border ((t (:foreground "black"))))
 
  '(Man-overstrike-face ((t (:bold t))))
  '(Man-underline-face ((t (:underline t))))

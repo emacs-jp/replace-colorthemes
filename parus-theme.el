@@ -33,9 +33,9 @@
  'parus
 
  '(default ((t (:background "#00005a" :foreground "White"))))
- '(mouse ((t (:foregound "yellow"))))
- '(cursor ((t (:foregound "yellow"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "yellow"))))
+ '(cursor ((t (:foreground "yellow"))))
+ '(border ((t (:foreground "black"))))
 
  '(gnus-mouse-face ((t (:background "darkolivegreen"))))
  '(list-matching-lines-face ((t (:bold t))))

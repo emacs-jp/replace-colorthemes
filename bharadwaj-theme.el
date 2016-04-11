@@ -33,9 +33,9 @@
  'bharadwaj
 
  '(default ((t (:background "gainsboro" :foreground "black"))))
- '(mouse ((t (:foregound "grey15"))))
- '(cursor ((t (:foregound "grey15"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "grey15"))))
+ '(cursor ((t (:foreground "grey15"))))
+ '(border ((t (:foreground "black"))))
 
  '(gnus-mouse-face ((t (:background "LightSkyBlue"))))
  '(smiley-mouse-face ((t (:background "LightSkyBlue"))))

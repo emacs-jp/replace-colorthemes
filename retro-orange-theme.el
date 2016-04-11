@@ -32,9 +32,9 @@
 
 (let ((foreground "orange")
       (faces '((default ((t (:background "black" :foreground "orange"))))
-               (mouse ((t (:foregound "orange"))))
-               (cursor ((t (:foregound "orange"))))
-               (border ((t (:foregound "orange")))))))
+               (mouse ((t (:foreground "orange"))))
+               (cursor ((t (:foreground "orange"))))
+               (border ((t (:foreground "orange")))))))
   (dolist (face (face-list))
     (cond ((memq face '(bold bold-italic))
            (add-to-list 'faces `(,face ((t (:bold t))))))

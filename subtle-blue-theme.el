@@ -33,9 +33,9 @@
  'subtle-blue
 
  '(default ((t (:background "#65889C" :foreground "#eedfcc"))))
- '(mouse ((t (:foregound "Grey"))))
- '(cursor ((t (:foregound "white"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "Grey"))))
+ '(cursor ((t (:foreground "white"))))
+ '(border ((t (:foreground "black"))))
 
  '(bbdb-company ((t (:italic t))))
  '(bbdb-field-name ((t (:bold t :foreground "MediumAquamarine"))))

@@ -33,8 +33,8 @@
  'scintilla
 
  '(default ((t (:background "white" :foreground "black"))))
- '(mouse ((t (:foregound "grey15"))))
- '(cursor ((t (:foregound "grey15"))))
+ '(mouse ((t (:foreground "grey15"))))
+ '(cursor ((t (:foreground "grey15"))))
 
  '(font-lock-comment-face ((t (:italic t :foreground "ForestGreen"))))
  '(font-lock-string-face ((t (:foreground "DarkMagenta"))))

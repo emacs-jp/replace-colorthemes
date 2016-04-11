@@ -33,9 +33,9 @@
  'charcoal-black
 
  '(default ((t (:background "Grey15" :foreground "Grey"))))
- '(mouse ((t (:foregound "Grey"))))
- '(cursor ((t (:foregound "Grey"))))
- '(border ((t (:foregound "Grey"))))
+ '(mouse ((t (:foreground "Grey"))))
+ '(cursor ((t (:foreground "Grey"))))
+ '(border ((t (:foreground "Grey"))))
 
  '(display-time-mail-face ((t (:underline t))))
  '(gnus-article-button-face ((t (:bold t :weight bold))))

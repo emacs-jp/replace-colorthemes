@@ -33,9 +33,9 @@
  'comidia
 
  '(default ((t (:background "black" :foreground "SteelBlue"))))
- '(mouse ((t (:foregound "SteelBlue"))))
- '(cursor ((t (:foregound "SteelBlue"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "SteelBlue"))))
+ '(cursor ((t (:foreground "SteelBlue"))))
+ '(border ((t (:foreground "black"))))
 
  '(bg:erc-color-face0 ((t (:background "White"))))
  '(bg:erc-color-face1 ((t (:background "black"))))

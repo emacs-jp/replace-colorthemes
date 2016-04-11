@@ -33,9 +33,9 @@
  'marquardt
 
  '(default ((t (:background "bisque" :foreground "black"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "Red3"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "Red3"))))
+ '(border ((t (:foreground "black"))))
 
  '(blue ((t (:foreground "blue"))))
  '(bold ((t (:bold t))))

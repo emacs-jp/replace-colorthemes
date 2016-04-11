@@ -33,9 +33,9 @@
  'feng-shui
 
  '(default ((t (:background "ivory" :foreground "black"))))
- '(mouse ((t (:foregound "slateblue"))))
- '(cursor ((t (:foregound "slateblue"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "slateblue"))))
+ '(cursor ((t (:foreground "slateblue"))))
+ '(border ((t (:foreground "black"))))
 
  '(help-highlight-face ((t (:underline t))))
  '(list-matching-lines-face ((t (:bold t :weight bold))))

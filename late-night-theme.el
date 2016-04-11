@@ -33,8 +33,8 @@
  'late-night
 
  '(default ((t (:background "#000" :foreground "#666"))))
- '(cursor ((t (:foregound "#888"))))
- '(border ((t (:foregound "#000"))))
+ '(cursor ((t (:foreground "#888"))))
+ '(border ((t (:foreground "#000"))))
 
  '(erc-action-face ((t (nil))))
  '(erc-bold-face ((t (:bold t))))

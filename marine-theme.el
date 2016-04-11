@@ -33,9 +33,9 @@
  'marine
 
  '(default ((t (:background "#9dcec9" :foreground "darkslategray"))))
- '(mouse ((t (:foregound "sienna1"))))
- '(cursor ((t (:foregound "yellow"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "sienna1"))))
+ '(cursor ((t (:foreground "yellow"))))
+ '(border ((t (:foreground "black"))))
 
  '(blue ((t (:foreground "blue"))))
  '(bold ((t (:bold t))))

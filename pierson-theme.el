@@ -33,8 +33,8 @@
  'pierson
 
  '(default ((t (:background "AntiqueWhite" :foreground "black"))))
- '(cursor ((t (:foregound "Orchid"))))
- '(border ((t (:foregound "black"))))
+ '(cursor ((t (:foreground "Orchid"))))
+ '(border ((t (:foreground "black"))))
 
  '(bold ((t (:bold t))))
  '(list-matching-lines-face ((t (:bold t))))

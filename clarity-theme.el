@@ -33,9 +33,9 @@
  'clarity
 
  '(default ((t (:background "black" :foreground "white"))))
- '(mouse ((t (:foregound "white"))))
- '(cursor ((t (:foregound "yellow"))))
- '(border ((t (:foregound "white"))))
+ '(mouse ((t (:foreground "white"))))
+ '(cursor ((t (:foreground "yellow"))))
+ '(border ((t (:foreground "white"))))
 
  '(help-highlight-face ((t (:underline t))))
  '(list-matching-lines-face ((t (:bold t :weight bold))))

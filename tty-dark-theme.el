@@ -33,9 +33,9 @@
  'tty-dark
 
  '(default ((t (:background "black" :foreground "white"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "red"))))
- '(border ((t (:foregound "blue"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "red"))))
+ '(border ((t (:foreground "blue"))))
 
  '(bold ((t (:underline t :background "black" :foreground "white"))))
  '(bold-italic ((t (:underline t :foreground "white"))))

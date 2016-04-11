@@ -33,9 +33,9 @@
  'kingsajz
 
  '(default ((t (:background "darkslategrey" :foreground "wheat"))))
- '(mouse ((t (:foregound "Grey"))))
- '(cursor ((t (:foregound "LightGray"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "Grey"))))
+ '(cursor ((t (:foreground "LightGray"))))
+ '(border ((t (:foreground "black"))))
 
  '(bbdb-field-name ((t (:foreground "green"))))
  '(bg:erc-color-face0 ((t (:background "White"))))

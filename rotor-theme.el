@@ -33,9 +33,9 @@
  'rotor
 
  '(default ((t (:background "Beige" :foreground "black"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "Maroon"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "Maroon"))))
+ '(border ((t (:foreground "black"))))
 
  '(Man-overstrike-face ((t (:foreground "MediumSlateBlue"))))
  '(Man-underline-face ((t (:foreground "ForestGreen"))))

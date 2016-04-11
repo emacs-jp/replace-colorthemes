@@ -34,9 +34,9 @@
  'robin-hood
 
  '(default ((t (:background "#304020" :foreground "navajo white"))))
- '(mouse ((t (:foregound "Grey"))))
- '(cursor ((t (:foregound "LightGray"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "Grey"))))
+ '(cursor ((t (:foreground "LightGray"))))
+ '(border ((t (:foreground "black"))))
 
  '(button ((t (:bold t))))
  '(header-line ((t (:background "#030" :foreground "#AA7"))))

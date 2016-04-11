@@ -34,9 +34,9 @@
  'renegade
 
  '(default ((t (:background "black" :foreground "cyan3"))))
- '(mouse ((t (:foregound "white"))))
- '(cursor ((t (:foregound "black"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "white"))))
+ '(cursor ((t (:foreground "black"))))
+ '(border ((t (:foreground "black"))))
 
  '(bold ((t (:bold t :foreground "cyan" :weight bold))))
  '(bold-italic ((t (:italic t :bold t :foreground "cyan" :slant italic :weight bold))))

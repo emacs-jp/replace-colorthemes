@@ -33,7 +33,7 @@
  'black-on-gray
 
  '(default ((t (:background "white" :foreground "black"))))
- '(border ((t (:foregound "blue"))))
+ '(border ((t (:foreground "blue"))))
 
  '(blue ((t (:foreground "blue"))))
  '(bold ((t (:bold t :size "10pt"))))

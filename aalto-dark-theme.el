@@ -34,9 +34,9 @@
  'aalto-dark
 
  '(default ((t (:background "DeepSkyBlue3" :foreground "white"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "yellow"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "yellow"))))
+ '(border ((t (:foreground "black"))))
 
  '(bold ((t (:bold t :background "blue3" :foreground "white"))))
  '(bold-italic ((t (:italic t :bold t :foreground "blue3"))))

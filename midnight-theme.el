@@ -33,8 +33,8 @@
  'midnight
 
  '(default ((t (:background "black" :foreground "grey85"))))
- '(mouse ((t (:foregound "grey85"))))
- '(cursor ((t (:foregound "grey85"))))
+ '(mouse ((t (:foreground "grey85"))))
+ '(cursor ((t (:foreground "grey85"))))
 
  '(font-lock-comment-face ((t (:italic t :foreground "grey60"))))
  '(font-lock-string-face ((t (:foreground "Magenta"))))

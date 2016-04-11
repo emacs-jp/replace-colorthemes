@@ -33,9 +33,9 @@
  'lawrence
 
  '(default ((t (:background "black" :foreground "#00CC00"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "green"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "green"))))
+ '(border ((t (:foreground "black"))))
 
  '(erc-button-face ((t (:bold t :foreground "#00CC00" :background "black"))))
  '(erc-button-mouse-face ((t (:foreground "#00CC00" :background "darkgreen"))))

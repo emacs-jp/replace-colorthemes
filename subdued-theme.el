@@ -33,9 +33,9 @@
  'subdued
 
  '(default ((t (:background "#000" :foreground "#d3d7cf"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "#73d216"))))
- '(border ((t (:foregound "#73d216"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "#73d216"))))
+ '(border ((t (:foreground "#73d216"))))
 
  '(font-lock-comment-face ((t (:foreground "#61635e")))) ; dark aluminum
  '(font-lock-comment-delimiter-face ((t (:foreground "#61635e")))) ; dark aluminum

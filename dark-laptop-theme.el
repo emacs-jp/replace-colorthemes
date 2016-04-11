@@ -33,9 +33,9 @@
  'dark-laptop
 
  '(default ((t (:background "black" :foreground "white"))))
- '(mouse ((t (:foregound "sienna1"))))
- '(cursor ((t (:foregound "yellow"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "sienna1"))))
+ '(cursor ((t (:foreground "yellow"))))
+ '(border ((t (:foreground "black"))))
 
  '(gnus-mouse-face ((t (:background "darkolivegreen"))))
  '(list-matching-lines-face ((t (:bold t))))

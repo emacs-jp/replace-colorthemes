@@ -33,8 +33,8 @@
  'ramangalahy
 
  '(default ((t (:background "lightgrey" :foreground "black"))))
- '(cursor ((t (:foregound "blue"))))
- '(border ((t (:foregound "black"))))
+ '(cursor ((t (:foreground "blue"))))
+ '(border ((t (:foreground "black"))))
 
  '(gnus-mouse-face ((t (:background "darkseagreen2"))))
  '(goto-address-mail-face ((t (:underline t :bold t :foreground "#0000ee"))))

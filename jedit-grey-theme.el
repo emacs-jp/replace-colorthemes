@@ -33,9 +33,9 @@
  'jedit-grey
 
  '(default ((t (:background "grey77" :foreground "black"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "black"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "black"))))
+ '(border ((t (:foreground "black"))))
 
  '(font-lock-comment-face ((t (:italic t :foreground "RoyalBlue4"))))
  '(font-lock-string-face ((t (:foreground "Gold4"))))
