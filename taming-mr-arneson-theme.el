@@ -33,7 +33,7 @@
  'taming-mr-arneson
 
  '(default ((t (:background "black" :foreground "LightSkyBlue"))))
- '(cursor ((t (:foreground "Red3"))))
+ '(cursor ((t (:background "Red3"))))
  '(border ((t (:foreground "black"))))
 
  '(bbdb-company ((t (nil))))

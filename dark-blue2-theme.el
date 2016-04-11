@@ -33,9 +33,9 @@
  'dark-blue2
 
  '(default ((t (:background "#233b5a" :foreground "#fff8dc"))))
- '(mouse ((t (:foreground "Grey"))))
- '(cursor ((t (:foreground "Yellow"))))
- '(border ((t (:foreground "black"))))
+ '(mouse ((t (:background "Grey"))))
+ '(cursor ((t (:background "Yellow"))))
+ '(border ((t (:background "black"))))
 
  '(cperl-invalid-face ((t (:underline t))))
  '(gnus-article-button-face ((t (:bold t :foreground "cyan" :weight bold))))
@@ -84,7 +84,6 @@
  '(blue ((t (:foreground "blue"))))
  '(bold ((t (:bold t :foreground "cyan" :weight bold))))
  '(bold-italic ((t (:italic t :bold t :foreground "cyan2" :slant italic :weight bold))))
- '(border ((t (:background "black"))))
  '(border-glyph ((t (nil))))
  '(buffers-tab ((t (:background "gray30" :foreground "LightSkyBlue"))))
  '(calendar-today-face ((t (:underline t))))
@@ -103,7 +102,6 @@
  '(cperl-hash-face ((t (:italic t :bold t :background "lightyellow2" :foreground "Red" :slant italic :weight bold))))
  '(cperl-invalid-face ((t (:foreground "white"))))
  '(cperl-nonoverridable-face ((t (:foreground "chartreuse3"))))
- '(cursor ((t (:background "Yellow"))))
  '(custom-button-face ((t (:bold t :weight bold))))
  '(custom-button-pressed-face ((t (:background "lightgrey" :foreground "gray30"))))
  '(custom-changed-face ((t (:background "blue" :foreground "white"))))
@@ -440,7 +438,6 @@
  '(modeline-buffer-id ((t (:background "white" :foreground "DeepSkyBlue3" :slant normal :weight normal :width normal :family "outline-verdana"))))
  '(modeline-mousable ((t (:background "white" :foreground "DeepSkyBlue3"))))
  '(modeline-mousable-minor-mode ((t (:background "white" :foreground "DeepSkyBlue3"))))
- '(mouse ((t (:background "Grey"))))
  '(my-summary-highlight-face ((t (:background "PaleTurquoise4" :foreground "White"))))
  '(my-url-face ((t (:foreground "LightBlue"))))
  '(nil ((t (nil))))

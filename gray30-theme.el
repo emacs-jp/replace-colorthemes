@@ -33,9 +33,9 @@
  'gray30
 
  '(default ((t (:background "gray30" :foreground "gainsboro"))))
- '(mouse ((t (:foreground "black"))))
- '(cursor ((t (:foreground "black"))))
- '(border ((t (:foreground "black"))))
+ '(mouse ((t (:background "black"))))
+ '(cursor ((t (:background "black"))))
+ '(border ((t (:background "black"))))
 
  '(help-highlight-face ((t (:underline t))))
  '(list-matching-lines-face ((t (:bold t :weight bold))))
@@ -59,11 +59,9 @@
  '(bg:erc-color-face9 ((t (:background "green"))))
  '(bold ((t (:bold t :weight bold))))
  '(bold-italic ((t (:italic t :bold t :slant italic :weight bold))))
- '(border ((t (:background "black"))))
  '(button ((t (:underline t))))
  '(comint-highlight-input ((t (:bold t :weight bold))))
  '(comint-highlight-prompt ((t (:foreground "cyan"))))
- '(cursor ((t (:background "black"))))
  '(custom-button-face ((t (:background "lightgrey" :foreground "black"
                            :box (:line-width 2 :style released-button)))))
  '(custom-button-pressed-face ((t (:background "lightgrey" :foreground "black"
@@ -160,7 +158,6 @@
                   :box (:line-width -1 :style released-button)))))
  '(mode-line-inactive ((t (:background "grey30" :foreground "grey80" :weight light
                            :box (:line-width -1 :color "grey40" :style nil)))))
- '(mouse ((t (:background "black"))))
  '(primary-selection ((t (:background "blue3"))))
  '(region ((t (:background "blue3"))))
  '(scroll-bar ((t (nil))))

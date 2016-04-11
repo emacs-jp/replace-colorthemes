@@ -33,7 +33,7 @@
  'cobalt
 
  '(default ((t (:background "#09223F" :foreground "#F8F8F8"))))
- '(cursor ((t (:foreground "#A7A7A7"))))
+ '(cursor ((t (:background "#A7A7A7"))))
  '(border ((t (:foreground "black"))))
 
  '(buffers-tab ((t (:background "#09223F" :foreground "white"))))

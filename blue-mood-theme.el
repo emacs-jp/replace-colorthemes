@@ -34,7 +34,7 @@
 
  '(default ((t (:background "DodgerBlue4" :foreground "white smoke"))))
  '(mouse ((t (:foreground "black"))))
- '(cursor ((t (:foreground "DarkGoldenrod1"))))
+ '(cursor ((t (:background "DarkGoldenrod1"))))
  '(border ((t (:foreground "Blue"))))
 
  '(blue ((t (:foreground "blue"))))

@@ -33,9 +33,9 @@
  'euphoria
 
  '(default ((t (:background "black" :foreground "#00ff00"))))
- '(mouse ((t (:foreground "yellow"))))
- '(cursor ((t (:foreground "yellow"))))
- '(border ((t (:foreground "black"))))
+ '(mouse ((t (:background "yellow"))))
+ '(cursor ((t (:background "yellow"))))
+ '(border ((t (:background "black"))))
 
  '(help-highlight-face ((t (:underline t))))
  '(list-matching-lines-face ((t (:bold t :weight bold))))
@@ -43,10 +43,8 @@
 
  '(bold ((t (:bold t :weight bold))))
  '(bold-italic ((t (:italic t :bold t :slant italic :weight bold))))
- '(border ((t (:background "black"))))
  '(comint-highlight-input ((t (:bold t :weight bold))))
  '(comint-highlight-prompt ((t (:foreground "cyan"))))
- '(cursor ((t (:background "yellow"))))
  '(fixed-pitch ((t (:family "courier"))))
  '(font-lock-builtin-face ((t (:foreground "magenta"))))
  '(font-lock-comment-face ((t (:foreground "deeppink"))))
@@ -74,7 +72,6 @@
  '(modeline-buffer-id ((t (:background "gray16" :foreground "#00ff00"))))
  '(modeline-mousable ((t (:background "gray16" :foreground "#00ff00"))))
  '(modeline-mousable-minor-mode ((t (:background "gray16" :foreground "#00ff00"))))
- '(mouse ((t (:background "yellow"))))
  '(primary-selection ((t (:background "#00ff00" :foreground "black"))))
  '(region ((t (:background "steelblue" :foreground "white"))))
  '(scroll-bar ((t (:background "gray16" :foreground "#00ff00"))))

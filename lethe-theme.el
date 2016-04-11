@@ -1,4 +1,4 @@
-;;; lethe-theme.el --- lethe theme
+n;;; lethe-theme.el --- lethe theme
 
 ;; Copyright (C) 2002 by Ivica Loncar
 ;; Copyright (C) 2013 by Syohei YOSHIDA
@@ -33,9 +33,9 @@
  'lethe
 
  '(default ((t (:background "black" :foreground "peachpuff"))))
- '(mouse ((t (:foreground "red"))))
- '(cursor ((t (:foreground "red"))))
- '(border ((t (:foreground "black"))))
+ '(mouse ((t (:background "red"))))
+ '(cursor ((t (:background "red"))))
+ '(border ((t (:background "black"))))
 
  '(bg:erc-color-face0 ((t (:background "White"))))
  '(bg:erc-color-face1 ((t (nil))))
@@ -56,7 +56,6 @@
  '(blue ((t (:foreground "blue"))))
  '(bold ((t (:bold t))))
  '(bold-italic ((t (:italic t :bold t))))
- '(border ((t (nil))))
  '(border-glyph ((t (nil))))
  '(buffers-tab ((t (:bold t :foreground "red"))))
  '(button ((t (:underline t))))
@@ -71,7 +70,6 @@
  '(cscope-line-face ((t (:foreground "green"))))
  '(cscope-line-number-face ((t (:foreground "red"))))
  '(cscope-mouse-face ((t (:background "blue" :foreground "white"))))
- '(cursor ((t (nil))))
  '(custom-button-face ((t (nil))))
  '(custom-button-pressed-face ((t (:background "lightgrey" :foreground "black"))))
  '(custom-changed-face ((t (:background "blue" :foreground "white"))))
@@ -307,7 +305,6 @@
  '(modeline-buffer-id ((t (:bold t :background "red" :foreground "yellow"))))
  '(modeline-mousable ((t (:background "red" :foreground "yellow"))))
  '(modeline-mousable-minor-mode ((t (:background "red" :foreground "green4"))))
- '(mouse ((t (nil))))
  '(paren-blink-off ((t (:foreground "black"))))
  '(paren-match ((t (:bold t :background "yellow" :foreground "red"))))
  '(paren-mismatch ((t (:background "DeepPink"))))

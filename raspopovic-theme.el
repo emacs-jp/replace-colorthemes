@@ -33,7 +33,7 @@
  'raspopovic
 
  '(default ((t (:background "darkblue" :foreground "yellow"))))
- '(cursor ((t (:foreground "Red3"))))
+ '(cursor ((t (:background "Red3"))))
  '(border ((t (:foreground "black"))))
 
  '(setnu-line-number-face ((t (:bold t :background "darkblue" :foreground "yellow"))))

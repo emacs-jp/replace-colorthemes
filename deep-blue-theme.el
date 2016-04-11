@@ -33,9 +33,9 @@
  'deep-blue
 
  '(default ((t (:background "#102e4e" :foreground "#eeeeee"))))
- '(mouse ((t (:foreground "white"))))
- '(cursor ((t (:foreground "green"))))
- '(border ((t (:foreground "black"))))
+ '(mouse ((t (:background "white"))))
+ '(cursor ((t (:background "green" :foreground "black"))))
+ '(border ((t (:background "black"))))
 
  '(Info-title-1-face ((t (:bold t :weight bold :height 1.728))))
  '(Info-title-2-face ((t (:bold t :weight bold :height 1.44))))
@@ -43,7 +43,6 @@
  '(Info-title-4-face ((t (:bold t :weight bold))))
  '(bold ((t (:bold t :weight bold))))
  '(bold-italic ((t (:italic t :bold t :slant italic :weight bold))))
- '(border ((t (:background "black"))))
  '(calendar-today-face ((t (:background "blue"))))
  '(change-log-acknowledgement-face ((t (:italic t :slant italic :foreground "CadetBlue"))))
  '(change-log-conditionals-face ((t (:foreground "SeaGreen2"))))
@@ -55,7 +54,6 @@
  '(change-log-name-face ((t (:foreground "gold"))))
  '(comint-highlight-input ((t (:bold t :weight bold))))
  '(comint-highlight-prompt ((t (:foreground "cyan"))))
- '(cursor ((t (:background "green" :foreground "black"))))
  '(cvs-filename-face ((t (:foreground "lightblue"))))
  '(cvs-handled-face ((t (:foreground "pink"))))
  '(cvs-header-face ((t (:bold t :foreground "lightyellow" :weight bold))))
@@ -112,7 +110,6 @@
  '(modeline-buffer-id ((t (:background "gray" :foreground "black" :box (:line-width 2 :style released-button)))))
  '(modeline-mousable ((t (:background "gray" :foreground "black" :box (:line-width 2 :style released-button)))))
  '(modeline-mousable-minor-mode ((t (:background "gray" :foreground "black" :box (:line-width 2 :style released-button)))))
- '(mouse ((t (:background "white"))))
  '(region ((t (:background "DarkCyan"))))
  '(scroll-bar ((t (:background "gray" :foreground "#506070"))))
  '(secondary-selection ((t (:background "yellow" :foreground "gray10"))))

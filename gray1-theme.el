@@ -33,7 +33,7 @@
  'gray1
 
  '(default ((t (:background "darkgray" :foreground "black"))))
- '(cursor ((t (:foreground "Yellow"))))
+ '(cursor ((t (:background "Yellow"))))
  '(border ((t (:foreground "black"))))
 
  '(blue ((t (:foreground "blue"))))

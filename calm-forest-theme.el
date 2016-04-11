@@ -33,9 +33,9 @@
  'calm-forest
 
  '(default ((t (:background "gray12" :foreground "green"))))
- '(mouse ((t (:foreground "yellow"))))
- '(cursor ((t (:foreground "orange"))))
- '(border ((t (:foreground "black"))))
+ '(mouse ((t (:background "yellow"))))
+ '(cursor ((t (:background "orange"))))
+ '(border ((t (:background "black"))))
 
  '(help-highlight-face ((t (:underline t))))
  '(list-matching-lines-face ((t (:bold t :weight bold))))
@@ -48,7 +48,6 @@
  '(Info-title-4-face ((t (:bold t :family "helv" :weight bold))))
  '(bold ((t (:bold t :weight bold))))
  '(bold-italic ((t (:italic t :bold t :weight bold))))
- '(border ((t (:background "black"))))
  '(comint-highlight-input ((t (:bold t :weight bold))))
  '(comint-highlight-prompt ((t (:foreground "cyan"))))
  '(cparen-around-andor-face ((t (:bold t :foreground "maroon" :weight bold))))
@@ -65,7 +64,6 @@
  '(cparen-binding-list-face ((t (:bold t :foreground "ForestGreen" :weight bold))))
  '(cparen-conditional-clause-face ((t (:foreground "RoyalBlue"))))
  '(cparen-normal-paren-face ((t (:foreground "grey50"))))
- '(cursor ((t (:background "orange"))))
  '(custom-button-face ((t (:background "lightgrey" :foreground "black"
                            :box (:line-width 2 :style released-button)))))
  '(custom-button-pressed-face ((t (:background "lightgrey" :foreground "black"
@@ -137,7 +135,6 @@
  '(menu ((t (nil))))
  '(mode-line ((t (:background "grey75" :foreground "black"
                   :box (:line-width -1 :style released-button)))))
- '(mouse ((t (:background "yellow"))))
  '(region ((t (:background "blue3"))))
  '(scroll-bar ((t (nil))))
  '(secondary-selection ((t (:background "SkyBlue4"))))

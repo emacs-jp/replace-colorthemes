@@ -35,7 +35,7 @@
 
  '(default ((t (:background "black" :foreground "goldenrod"))))
  '(mouse ((t (:foreground "goldenrod"))))
- '(cursor ((t (:foreground "light goldenrod"))))
+ '(cursor ((t (:background "light goldenrod"))))
  '(border ((t (:foreground "black"))))
 
  '(erc-action-face ((t (nil))))

@@ -34,7 +34,7 @@
 
  '(default ((t (:background "black" :foreground "green"))))
  '(mouse ((t (:foreground "black"))))
- '(cursor ((t (:foreground "black"))))
+ '(cursor ((t (:background "black"))))
  '(border ((t (:foreground "black"))))
 
  '(list-matching-lines-face ((t (:bold t))))

@@ -35,7 +35,7 @@
 
  '(default ((t (:background "MidnightBlue" :foreground "Grey"))))
  '(mouse ((t (:foreground "Grey"))))
- '(cursor ((t (:foreground "Grey"))))
+ '(cursor ((t (:background "Grey"))))
  '(border ((t (:foreground "Grey"))))
 
  '(gnus-cite-attribution-face ((t (:lforeground "lemon chiffon" :bold t))))

@@ -34,7 +34,7 @@
 
  '(default ((t (:background "mistyrose" :foreground "Black"))))
  '(mouse ((t (:foreground "black"))))
- '(cursor ((t (:foreground "deep pink"))))
+ '(cursor ((t (:background "deep pink"))))
  '(border ((t (:foreground "black"))))
 
  '(goto-address-mail-face ((t (:italic t))))

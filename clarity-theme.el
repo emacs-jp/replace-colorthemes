@@ -33,9 +33,9 @@
  'clarity
 
  '(default ((t (:background "black" :foreground "white"))))
- '(mouse ((t (:foreground "white"))))
- '(cursor ((t (:foreground "yellow"))))
- '(border ((t (:foreground "white"))))
+ '(mouse ((t (:background "white"))))
+ '(cursor ((t (:background "yellow"))))
+ '(border ((t (:background "white"))))
 
  '(help-highlight-face ((t (:underline t))))
  '(list-matching-lines-face ((t (:bold t :weight bold))))
@@ -47,11 +47,9 @@
  '(CUA-rectangle-noselect-face ((t (:background "dimgray" :foreground "white"))))
  '(bold ((t (:bold t :weight bold))))
  '(bold-italic ((t (:italic t :bold t :slant italic :weight bold))))
- '(border ((t (:background "white"))))
  '(clearcase-dired-checkedout-face ((t (:foreground "red"))))
  '(comint-highlight-input ((t (:bold t :weight bold))))
  '(comint-highlight-prompt ((t (:foreground "cyan"))))
- '(cursor ((t (:background "yellow"))))
  '(fixed-pitch ((t (:family "courier"))))
  '(flash-paren-face-off ((t (nil))))
  '(flash-paren-face-on ((t (nil))))
@@ -84,7 +82,6 @@
  '(menu ((t (nil))))
  '(mode-line ((t (:foreground "yellow" :background "darkslateblue"
                   :box (:line-width -1 :style released-button)))))
- '(mouse ((t (:background "white"))))
  '(region ((t (:background "blue"))))
  '(scroll-bar ((t (nil))))
  '(secondary-selection ((t (:background "darkslateblue"))))

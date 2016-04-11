@@ -35,7 +35,7 @@
 
  '(default ((t (:background "Blue-Eshell" :foreground "DarkSlateGray4"))))
  '(mouse ((t (:foreground "black"))))
- '(cursor ((t (:foreground "black"))))
+ '(cursor ((t (:background "black"))))
  '(border ((t (:foreground "black"))))
 
  '(eshell-ls-archive-face ((t (:bold t :foreground "IndianRed"))))

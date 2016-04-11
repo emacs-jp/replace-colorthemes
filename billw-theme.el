@@ -35,7 +35,7 @@
 
  '(default ((t (:background "black" :foreground "cornsilk"))))
  '(mouse ((t (:foreground "black"))))
- '(cursor ((t (:foreground "white"))))
+ '(cursor ((t (:background "white"))))
  '(border ((t (:foreground "black"))))
 
  '(modeline ((t (:foreground "black" :background "wheat"))))

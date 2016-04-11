@@ -34,7 +34,7 @@
 
  '(default ((t (:background "white" :foreground "black"))))
  '(mouse ((t (:foreground "grey15"))))
- '(cursor ((t (:foreground "grey15"))))
+ '(cursor ((t (:background "grey15"))))
 
  '(font-lock-comment-face ((t (:italic t :foreground "ForestGreen"))))
  '(font-lock-string-face ((t (:foreground "DarkMagenta"))))

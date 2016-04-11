@@ -33,9 +33,9 @@
  'dark-blue
 
  '(default ((t (:background "#537182" :foreground "AntiqueWhite2"))))
- '(mouse ((t (:foreground "Grey"))))
- '(cursor ((t (:foreground "LightGray"))))
- '(border ((t (:foreground "black"))))
+ '(mouse ((t (:background "Grey"))))
+ '(cursor ((t (:background "LightGray"))))
+ '(border ((t (:background "black"))))
 
  '(bbdb-company ((t (:italic t))))
  '(bbdb-field-name ((t (:bold t :foreground "MediumAquamarine"))))
@@ -46,7 +46,6 @@
  '(blue ((t (:foreground "blue"))))
  '(bold ((t (:bold t :foreground "MediumAquamarine"))))
  '(bold-italic ((t (:italic t :bold t :foreground "SkyBlue"))))
- '(border ((t (:background "black"))))
  '(border-glyph ((t (nil))))
  '(calendar-today-face ((t (:underline t))))
  '(comint-highlight-input ((t (:bold t))))
@@ -55,7 +54,6 @@
  '(cperl-array-face ((t (:bold t :foreground "Yellow"))))
  '(cperl-hash-face ((t (:italic t :bold t :foreground "White"))))
  '(cperl-nonoverridable-face ((t (:foreground "SkyBlue"))))
- '(cursor ((t (:background "white"))))
  '(custom-button-face ((t (:underline t :bold t :foreground "MediumAquaMarine"))))
  '(custom-button-pressed-face ((t (:background "lightgrey" :foreground "black"))))
  '(custom-changed-face ((t (:background "blue" :foreground "white"))))
@@ -287,7 +285,6 @@
  '(modeline-mousable ((t (:background "#c1ccd9" :foreground "#4f657d"))))
  '(modeline-mousable-minor-mode ((t (:background "#c1ccd9" :foreground "#4f657d"))))
 
- '(mouse ((t (:background "Grey"))))
  '(my-summary-highlight-face ((t (:foreground "White"))))
  '(my-url-face ((t (:foreground "LightBlue"))))
  '(nil ((t (nil))))

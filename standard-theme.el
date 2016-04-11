@@ -36,7 +36,7 @@
 
  '(default ((t (:background "white" :foreground "black"))))
  '(mouse ((t (:foreground "black"))))
- '(cursor ((t (:foreground "black"))))
+ '(cursor ((t (:background "black"))))
  '(border ((t (:foreground "black"))))
 
  '(Man-overstrike-face ((t (:bold t))))
