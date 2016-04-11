@@ -34,7 +34,7 @@
  'ryerson
 
  '(default ((t (:background "midnightblue" :foreground "white"))))
- '(cursor ((t (:foregound "red"))))
+ '(cursor ((t (:foreground "red"))))
 
  '(modeline-buffer-id ((t (:foreground "black" :background "slategray3"))))
  '(modeline-mousable ((t (:foreground "black" :background "slategray3"))))

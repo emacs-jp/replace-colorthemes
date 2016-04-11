@@ -33,8 +33,8 @@
  'raspopovic
 
  '(default ((t (:background "darkblue" :foreground "yellow"))))
- '(cursor ((t (:foregound "Red3"))))
- '(border ((t (:foregound "black"))))
+ '(cursor ((t (:foreground "Red3"))))
+ '(border ((t (:foreground "black"))))
 
  '(setnu-line-number-face ((t (:bold t :background "darkblue" :foreground "yellow"))))
  '(goto-address-mail-face ((t (:bold t :background "darkblue" :foreground "yellow"))))

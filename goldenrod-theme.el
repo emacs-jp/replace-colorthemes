@@ -34,9 +34,9 @@
  'goldenrod
 
  '(default ((t (:background "black" :foreground "goldenrod"))))
- '(mouse ((t (:foregound "goldenrod"))))
- '(cursor ((t (:foregound "light goldenrod"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "goldenrod"))))
+ '(cursor ((t (:foreground "light goldenrod"))))
+ '(border ((t (:foreground "black"))))
 
  '(erc-action-face ((t (nil))))
  '(erc-bold-face ((t (:bold t))))

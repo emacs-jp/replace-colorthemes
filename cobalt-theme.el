@@ -33,8 +33,8 @@
  'cobalt
 
  '(default ((t (:background "#09223F" :foreground "#F8F8F8"))))
- '(cursor ((t (:foregound "#A7A7A7"))))
- '(border ((t (:foregound "black"))))
+ '(cursor ((t (:foreground "#A7A7A7"))))
+ '(border ((t (:foreground "black"))))
 
  '(buffers-tab ((t (:background "#09223F" :foreground "white"))))
  '(font-lock-builtin-face ((t (:foreground "#40FFB9"))))

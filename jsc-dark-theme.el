@@ -33,9 +33,9 @@
  'jsc-dark
 
  '(default ((t (:background "black" :foreground "cornsilk"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "white"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "white"))))
+ '(border ((t (:foreground "black"))))
 
  '(gnus-mouse-face ((t (:background "darkslategray" :foreground "wheat"))))
  '(goto-address-mail-face ((t (:italic t))))

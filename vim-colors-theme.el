@@ -33,9 +33,9 @@
  'vim-colors
 
  '(default ((t (:background "#ffffff" :foreground "#000000"))))
- '(mouse ((t (:foregound "#000000"))))
- '(cursor ((t (:foregound "#000000"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "#000000"))))
+ '(cursor ((t (:foreground "#000000"))))
+ '(border ((t (:foreground "black"))))
 
  '(Man-overstrike-face ((t (:weight bold))))
  '(Man-underline-face ((t (:underline t))))

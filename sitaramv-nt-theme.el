@@ -34,9 +34,9 @@
  'sitaramv-nt
 
  '(default ((t (:background "white" :foreground "black"))))
- '(mouse ((t (:foregound "sienna3"))))
- '(cursor ((t (:foregound "HotPink"))))
- '(border ((t (:foregound "Blue"))))
+ '(mouse ((t (:foreground "sienna3"))))
+ '(cursor ((t (:foreground "HotPink"))))
+ '(border ((t (:foreground "Blue"))))
 
  '(modeline ((t (:foreground "black" :background "gold2"))))
  '(modeline-buffer-id ((t (:foreground "black" :background "gold2"))))

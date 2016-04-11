@@ -34,9 +34,9 @@
  'sitaramv-solaris
 
  '(default ((t (:background "MidnightBlue" :foreground "white"))))
- '(mouse ((t (:foregound "yellow"))))
- '(cursor ((t (:foregound "magenta2"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "yellow"))))
+ '(cursor ((t (:foreground "magenta2"))))
+ '(border ((t (:foreground "black"))))
 
  '(modeline ((t (:foreground "black" :background "gold2"))))
  '(modeline-buffer-id ((t (:foreground "black" :background "gold2"))))

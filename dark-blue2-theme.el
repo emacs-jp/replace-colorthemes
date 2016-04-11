@@ -33,9 +33,9 @@
  'dark-blue2
 
  '(default ((t (:background "#233b5a" :foreground "#fff8dc"))))
- '(mouse ((t (:foregound "Grey"))))
- '(cursor ((t (:foregound "Yellow"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "Grey"))))
+ '(cursor ((t (:foreground "Yellow"))))
+ '(border ((t (:foreground "black"))))
 
  '(cperl-invalid-face ((t (:underline t))))
  '(gnus-article-button-face ((t (:bold t :foreground "cyan" :weight bold))))

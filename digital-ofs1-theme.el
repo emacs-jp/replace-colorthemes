@@ -33,9 +33,9 @@
  'digital-ofs1
 
  '(default ((t (:background "#CA94AA469193" :foreground "Black"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "black"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "black"))))
+ '(border ((t (:foreground "black"))))
 
  '(Man-overstrike-face ((t (:bold t))))
  '(Man-underline-face ((t (:underline t :bold t))))

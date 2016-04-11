@@ -33,9 +33,9 @@
  'bharadwaj-slate
 
  '(default ((t (:background "DarkSlateGray" :foreground "palegreen"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "khaki"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "khaki"))))
+ '(border ((t (:foreground "black"))))
 
 '(display-time-mail-face ((t (:background "Darkslategray" :foreground "white" :overline "blueviolet" :underline "blueviolet"))))
 '(gnus-article-button-face ((t (:bold t :weight bold))))

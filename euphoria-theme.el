@@ -33,9 +33,9 @@
  'euphoria
 
  '(default ((t (:background "black" :foreground "#00ff00"))))
- '(mouse ((t (:foregound "yellow"))))
- '(cursor ((t (:foregound "yellow"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "yellow"))))
+ '(cursor ((t (:foreground "yellow"))))
+ '(border ((t (:foreground "black"))))
 
  '(help-highlight-face ((t (:underline t))))
  '(list-matching-lines-face ((t (:bold t :weight bold))))

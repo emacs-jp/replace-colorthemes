@@ -33,9 +33,9 @@
  'snow
 
  '(default ((t (:background "snow2" :foreground "black"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "RoyalBlue2"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "RoyalBlue2"))))
+ '(border ((t (:foreground "black"))))
 
  '(gnus-mouse-face ((t (:background "LightSteelBlue1"))))
  '(list-matching-lines-face ((t (:bold t))))

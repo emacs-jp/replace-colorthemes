@@ -33,9 +33,9 @@
  'jonadabian-slate
 
  '(default ((t (:background "#305050" :foreground "#CCBB77"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "medium turquoise"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "medium turquoise"))))
+ '(border ((t (:foreground "black"))))
 
  '(list-matching-lines-face ((t (:bold t :foreground "#EEDDAA"))))
  '(ued-mode-keyname-face ((t (:background "#007080" :foreground "cyan"))))

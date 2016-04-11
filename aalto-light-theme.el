@@ -33,9 +33,9 @@
  'aalto-light
 
  '(default ((t (:background "#FFFFE0" :foreground "DarkSlateGray4"))))
- '(mouse ((t (:foregound "LawnGreen"))))
- '(cursor ((t (:foregound "black"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "LawnGreen"))))
+ '(cursor ((t (:foreground "black"))))
+ '(border ((t (:foreground "black"))))
 
  '(gnus-mouse-face ((t (:background "darkseagreen2"))))
  '(list-matching-lines-face ((t (:bold t))))

@@ -34,9 +34,9 @@
  'simple-1
 
  '(default ((t (:background "black" :foreground "white"))))
- '(mouse ((t (:foregound "white"))))
- '(cursor ((t (:foregound "indian red"))))
- '(border ((t (:foregound "white"))))
+ '(mouse ((t (:foreground "white"))))
+ '(cursor ((t (:foreground "indian red"))))
+ '(border ((t (:foreground "white"))))
 
  '(modeline ((t (:foreground "black" :background "white"))))
  '(modeline-buffer-id ((t (:foreground "black" :background "white"))))

@@ -34,9 +34,9 @@
  'fischmeister
 
  '(default ((t (:background "gray80" :foreground "black"))))
- '(mouse ((t (:foregound "red"))))
- '(cursor ((t (:foregound "yellow"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "red"))))
+ '(cursor ((t (:foreground "yellow"))))
+ '(border ((t (:foreground "black"))))
 
  '(modeline ((t (:foreground "gray80" :background "black"))))
  '(modeline-buffer-id ((t (:foreground "gray80" :background "black"))))

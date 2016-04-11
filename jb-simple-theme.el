@@ -33,9 +33,9 @@
  'jb-simple
 
  '(default ((t (:background "white" :foreground "black"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "black"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "black"))))
+ '(border ((t (:foreground "black"))))
 
  '(gnus-mouse-face ((t (:background "darkseagreen2"))))
  '(list-matching-lines-face ((t (:bold t))))

@@ -33,9 +33,9 @@
  'matrix
 
  '(default ((t (:background "black" :foreground "#7eff00"))))
- '(mouse ((t (:foregound "#7eff00"))))
- '(cursor ((t (:foregound "#7eff00"))))
- '(border ((t (:foregound "orange"))))
+ '(mouse ((t (:foreground "#7eff00"))))
+ '(cursor ((t (:foreground "#7eff00"))))
+ '(border ((t (:foreground "orange"))))
 
  '(Buffer-menu-buffer-face ((t (nil))))
  '(CUA-global-mark-face ((t (nil))))

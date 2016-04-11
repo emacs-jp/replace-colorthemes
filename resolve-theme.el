@@ -33,9 +33,9 @@
  'resolve
 
  '(default ((t (:background "#00457f" :foreground "white smoke"))))
- '(mouse ((t (:foregound "white"))))
- '(cursor ((t (:foregound "DarkGoldenrod1"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "white"))))
+ '(cursor ((t (:foreground "DarkGoldenrod1"))))
+ '(border ((t (:foreground "black"))))
 
  '(display-time-mail-face ((t (:foreground "white" :background "#001040")))-line)
  '(help-highlight-face ((t (:underline t))))

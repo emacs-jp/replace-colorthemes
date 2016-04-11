@@ -33,9 +33,9 @@
  'jsc-light
 
  '(default ((t (:background "white" :foreground "black"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "Red"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "Red"))))
+ '(border ((t (:foreground "black"))))
 
  '(gnus-mouse-face ((t (:background "antiquewhite" :foreground "blue"))))
  '(list-matching-lines-face ((t (:bold t :foreground "red3"))))

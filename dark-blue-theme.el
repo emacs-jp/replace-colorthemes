@@ -33,9 +33,9 @@
  'dark-blue
 
  '(default ((t (:background "#537182" :foreground "AntiqueWhite2"))))
- '(mouse ((t (:foregound "Grey"))))
- '(cursor ((t (:foregound "LightGray"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "Grey"))))
+ '(cursor ((t (:foreground "LightGray"))))
+ '(border ((t (:foreground "black"))))
 
  '(bbdb-company ((t (:italic t))))
  '(bbdb-field-name ((t (:bold t :foreground "MediumAquamarine"))))

@@ -34,9 +34,9 @@
  'pok-wob
 
  '(default ((t (:background "black" :foreground "white"))))
- '(mouse ((t (:foregound "gold"))))
- '(cursor ((t (:foregound "yellow"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "gold"))))
+ '(cursor ((t (:foreground "yellow"))))
+ '(border ((t (:foreground "black"))))
 
  '(bold ((t (:bold t :foreground "light gray"))))
  '(bold-italic ((t (:italic t :bold t :foreground "cyan"))))

@@ -33,9 +33,9 @@
  'lethe
 
  '(default ((t (:background "black" :foreground "peachpuff"))))
- '(mouse ((t (:foregound "red"))))
- '(cursor ((t (:foregound "red"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "red"))))
+ '(cursor ((t (:foreground "red"))))
+ '(border ((t (:foreground "black"))))
 
  '(bg:erc-color-face0 ((t (:background "White"))))
  '(bg:erc-color-face1 ((t (nil))))

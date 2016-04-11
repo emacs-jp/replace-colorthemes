@@ -33,9 +33,9 @@
  'katester
 
  '(default ((t (:background "ivory" :foreground "black"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "slateblue"))))
- '(border ((t (:foregound "slateblue"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "slateblue"))))
+ '(border ((t (:foreground "slateblue"))))
 
  '(Man-overstrike-face ((t (:bold t))))
  '(Man-underline-face ((t (:underline t))))

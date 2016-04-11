@@ -34,9 +34,9 @@
  'billw
 
  '(default ((t (:background "black" :foreground "cornsilk"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "white"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "white"))))
+ '(border ((t (:foreground "black"))))
 
  '(modeline ((t (:foreground "black" :background "wheat"))))
  '(modeline-buffer-id ((t (:foreground "black" :background "wheat"))))

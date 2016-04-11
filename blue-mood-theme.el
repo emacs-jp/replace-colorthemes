@@ -33,9 +33,9 @@
  'blue-mood
 
  '(default ((t (:background "DodgerBlue4" :foreground "white smoke"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "DarkGoldenrod1"))))
- '(border ((t (:foregound "Blue"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "DarkGoldenrod1"))))
+ '(border ((t (:foreground "Blue"))))
 
  '(blue ((t (:foreground "blue"))))
  '(bold ((t (:bold t))))

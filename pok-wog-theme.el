@@ -34,9 +34,9 @@
  'pok-wog
 
  '(default ((t (:background "DarkSlateGray" :foreground "White"))))
- '(mouse ((t (:foregound "gold"))))
- '(cursor ((t (:foregound "Cyan"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "gold"))))
+ '(cursor ((t (:foreground "Cyan"))))
+ '(border ((t (:foreground "black"))))
 
  '(bold ((t (:bold t :foreground "Wheat"))))
  '(bold-italic ((t (:italic t :bold t :foreground "wheat"))))

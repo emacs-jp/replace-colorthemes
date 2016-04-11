@@ -33,9 +33,9 @@
  'whateveryouwant
 
  '(default ((t (:background "white" :foreground "black"))))
- '(mouse ((t (:foregound "black"))))
- '(cursor ((t (:foregound "black"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "black"))))
+ '(cursor ((t (:foreground "black"))))
+ '(border ((t (:foreground "black"))))
 
  '(Info-title-1-face ((t (:bold t :weight bold :height 1.728))))
  '(Info-title-2-face ((t (:bold t :weight bold :height 1.44))))

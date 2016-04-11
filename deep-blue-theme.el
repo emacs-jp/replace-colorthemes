@@ -33,9 +33,9 @@
  'deep-blue
 
  '(default ((t (:background "#102e4e" :foreground "#eeeeee"))))
- '(mouse ((t (:foregound "white"))))
- '(cursor ((t (:foregound "green"))))
- '(border ((t (:foregound "black"))))
+ '(mouse ((t (:foreground "white"))))
+ '(cursor ((t (:foreground "green"))))
+ '(border ((t (:foreground "black"))))
 
  '(Info-title-1-face ((t (:bold t :weight bold :height 1.728))))
  '(Info-title-2-face ((t (:bold t :weight bold :height 1.44))))
