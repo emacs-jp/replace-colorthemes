@@ -1,4 +1,8 @@
 Revision history for color-theme-modern
 
+Revision 0.0.2 2016/04/12 syohex
+  - Fix wrong cursor color configurations of themes(#19, #20)
+    Thanks vedvyas
+
 Revision 0.0.1 2015/11/11 syohex
   - Register MELPA
