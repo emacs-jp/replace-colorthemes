@@ -1,4 +1,4 @@
-n;;; lethe-theme.el --- lethe theme
+;;; lethe-theme.el --- lethe theme
 
 ;; Copyright (C) 2002 by Ivica Loncar
 ;; Copyright (C) 2013 by Syohei YOSHIDA
