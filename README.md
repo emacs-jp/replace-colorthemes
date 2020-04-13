@@ -2,7 +2,7 @@
 
 This project replaces [color-theme](http://www.nongnu.org/color-theme/) with Emacs 24 theme framework.
 
-Please request by [issues](https://github.com/emacs-jp/replace-colorthemes/issues) if you want me to port your favarite theme of colorthemes.
+Please request by [issues](https://github.com/emacs-jp/replace-colorthemes/issues) if you want me to port your favorite theme from the old colorthemes.
 
 ## Screenshot
 
@@ -18,17 +18,10 @@ You can install `color-theme-modern` with the following command.
 
 NOTE: Package name is different from repository name.
 
-
 ```
  # Download your favorite theme ~/.emacs.d
  % cd ~/.emacs.d
  % curl -LO https://raw.githubusercontent.com/emacs-jp/replace-colorthemes/master/aalto-dark-theme.el
-```
-
-And add theme configuration to you configuration file
-```lisp
-(load-theme 'aalto-dark t t)
-(enable-theme 'aalto-dark)
 ```
 
 Or
@@ -38,15 +31,20 @@ Or
  % git clone https://github.com/emacs-jp/replace-colorthemes.git
 ```
 
-And add following code to your configuration file
+And add following code to your configuration file:
 ```lisp
 ;; Please set your themes directory to 'custom-theme-load-path
 (add-to-list 'custom-theme-load-path
              (file-name-as-directory "your cloned directory path"))
+```
 
-;; load your favorite theme
-(load-theme 'aalto-dark t t)
-(enable-theme 'aalto-dark)
+Users of Debian ≥11, or derivatives such as Ubuntu ≥20.04 may simply `sudo apt install elpa-color-theme-modern`.
+
+## Activating a Theme
+To use color-theme-modern, a theme must be selected, loaded, and activated.  Do this by adding something like the following lines to your Emacs configuration:
+```lisp
+ (load-theme 'aalto-dark t t)
+ (enable-theme 'aalto-dark)
 ```
 
 ## Ported themes
