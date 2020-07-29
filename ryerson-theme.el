@@ -36,9 +36,9 @@
  '(default ((t (:background "midnightblue" :foreground "white"))))
  '(cursor ((t (:background "red"))))
 
- '(modeline-buffer-id ((t (:foreground "black" :background "slategray3"))))
- '(modeline-mousable ((t (:foreground "black" :background "slategray3"))))
- '(modeline-mousable-minor-mode ((t (:foreground "black" :background "slategray3"))))
+ '(mode-line-buffer-id ((t (:foreground "black" :background "slategray3"))))
+ '(mode-line-mousable ((t (:foreground "black" :background "slategray3"))))
+ '(mode-line-mousable-minor-mode ((t (:foreground "black" :background "slategray3"))))
  '(underline ((t (:underline t))))
  '(region ((t (:foreground "black" :background "slategray3")))))
 

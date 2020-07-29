@@ -67,11 +67,11 @@
  '(isearch-lazy-highlight-face ((t (:background "paleturquoise4"))))
  '(italic ((t (:italic t :slant italic))))
  '(menu ((t (:background "gray16" :foreground "green"))))
- '(modeline ((t (:background "gray16" :foreground "#00ff00"
+ '(mode-line ((t (:background "gray16" :foreground "#00ff00"
                  :box (:line-width -1 :style released-button)))))
- '(modeline-buffer-id ((t (:background "gray16" :foreground "#00ff00"))))
- '(modeline-mousable ((t (:background "gray16" :foreground "#00ff00"))))
- '(modeline-mousable-minor-mode ((t (:background "gray16" :foreground "#00ff00"))))
+ '(mode-line-buffer-id ((t (:background "gray16" :foreground "#00ff00"))))
+ '(mode-line-mousable ((t (:background "gray16" :foreground "#00ff00"))))
+ '(mode-line-mousable-minor-mode ((t (:background "gray16" :foreground "#00ff00"))))
  '(primary-selection ((t (:background "#00ff00" :foreground "black"))))
  '(region ((t (:background "steelblue" :foreground "white"))))
  '(scroll-bar ((t (:background "gray16" :foreground "#00ff00"))))

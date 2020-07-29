@@ -269,11 +269,11 @@
    ((t (:background "grey30" :foreground "grey80"
                 :box (:line-width -1 :color "grey40" :style nil)
                 :weight light :height 0.9))))
- '(modeline-mousable
+ '(mode-line-mousable
    ((t (:background "grey" :foreground "black"
                     :box (:line-width 2 :color "grey" :style released-button)
                     :height 0.9))))
- '(modeline-mousable-minor-mode
+ '(mode-line-mousable-minor-mode
    ((t (:background "grey" :foreground "black"
                     :box (:line-width 2 :color "grey" :style released-button)
                     :height 0.9))))

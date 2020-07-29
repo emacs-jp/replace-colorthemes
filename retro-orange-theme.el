@@ -40,8 +40,8 @@
            (add-to-list 'faces `(,face ((t (:bold t))))))
           ((memq face '(italic underline show-paren-mismatch-face))
            (add-to-list 'faces `(,face ((t (:underline t))))))
-          ((memq face '(modeline modeline-buffer-id modeline-mousable
-                                 modeline-mousable-minor-mode highlight region
+          ((memq face '(mode-line mode-line-buffer-id mode-line-mousable
+                                 mode-line-mousable-minor-mode highlight region
                                  secondary-selection show-paren-match-face))
            (add-to-list 'faces `(,face ((t (:foreground "black"
                                             :background ,foreground

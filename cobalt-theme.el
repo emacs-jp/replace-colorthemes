@@ -61,7 +61,7 @@
  '(show-paren-mismatch ((t (:background "#FF0000"))))
  '(ecb-default-highlight-face ((t (:background "#26425D"))))
  '(minibuffer-prompt ((t (:foreground "#008AFF"))))
- '(modeline ((t (:background "#111111" :foreground "#888888"))))
+ '(mode-line ((t (:background "#111111" :foreground "#888888"))))
  '(modeline-inactive ((t (:background "#222222" :foreground "#888888"))))
  '(italic ((t (nil))))
  '(left-margin ((t (nil))))

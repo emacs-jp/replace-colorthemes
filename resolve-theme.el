@@ -157,11 +157,11 @@
  '(message-header-xheader-face ((t (:foreground "blue"))))
  '(message-mml-face ((t (:foreground "ForestGreen"))))
  '(message-separator-face ((t (:foreground "misty rose"))))
- '(modeline ((t (:foreground "white" :background "#001040"
+ '(mode-line ((t (:foreground "white" :background "#001040"
                  :box (:line-width -1 :style released-button)))))
- '(modeline-buffer-id ((t (:foreground "white" :background "#001040"))))
- '(modeline-mousable ((t (:foreground "white" :background "#001040"))))
- '(modeline-mousable-minor-mode ((t (:foreground "white" :background "#001040"))))
+ '(mode-line-buffer-id ((t (:foreground "white" :background "#001040"))))
+ '(mode-line-mousable ((t (:foreground "white" :background "#001040"))))
+ '(mode-line-mousable-minor-mode ((t (:foreground "white" :background "#001040"))))
  '(my-tab-face ((t (:background "SlateBlue1"))))
  '(p4-diff-del-face ((t (:bold t :foreground "salmon" :weight bold))))
  '(primary-selection ((t (:background "gray91" :foreground "DodgerBlue4"))))
