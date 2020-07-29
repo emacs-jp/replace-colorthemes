@@ -38,10 +38,10 @@
  '(cursor ((t (:background "indian red"))))
  '(border ((t (:foreground "white"))))
 
- '(modeline ((t (:foreground "black" :background "white"))))
- '(modeline-buffer-id ((t (:foreground "black" :background "white"))))
- '(modeline-mousable ((t (:foreground "black" :background "white"))))
- '(modeline-mousable-minor-mode ((t (:foreground "black" :background "white"))))
+ '(mode-line ((t (:foreground "black" :background "white"))))
+ '(mode-line-buffer-id ((t (:foreground "black" :background "white"))))
+ '(mode-line-mousable ((t (:foreground "black" :background "white"))))
+ '(mode-line-mousable-minor-mode ((t (:foreground "black" :background "white"))))
  '(underline ((t (:underline t))))
  '(region ((t (:background "grey")))))
 

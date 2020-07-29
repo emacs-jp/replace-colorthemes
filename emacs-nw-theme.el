@@ -290,13 +290,13 @@
  '(message-separator-face ((t (:foreground "brown"))))
  '(mode-line ((t (:background "grey50" :foreground "white"
                   :box (:line-width -1 :style released-button)))))
- '(modeline ((t (:background "grey50" :foreground "white"
+ '(mode-line ((t (:background "grey50" :foreground "white"
                  :box (:line-width -1 :style released-button)))))
- '(modeline-buffer-id ((t (:bold t :background "grey75" :foreground "black"
+ '(mode-line-buffer-id ((t (:bold t :background "grey75" :foreground "black"
                            :box (:line-width -1 :style released-button)))))
- '(modeline-mousable ((t (:background "grey75" :foreground "black"
+ '(mode-line-mousable ((t (:background "grey75" :foreground "black"
                           :box (:line-width -1 :style released-button)))))
- '(modeline-mousable-minor-mode ((t (:background "grey75" :foreground "black"
+ '(mode-line-mousable-minor-mode ((t (:background "grey75" :foreground "black"
                                      :box (:line-width -1 :style released-button)))))
  '(primary-selection ((t (:background "lightgoldenrod2"))))
  '(reb-match-0 ((t (:background "lightblue"))))

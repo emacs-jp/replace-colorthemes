@@ -198,8 +198,8 @@
                     :foreground "grey80"
                     :box (:line-width -1 :color "grey40" :style nil)
                     :weight light))))
- '(modeline-mousable ((t (:background "darkslateblue" :foreground "white"))))
- '(modeline-mousable-minor-mode
+ '(mode-line-mousable ((t (:background "darkslateblue" :foreground "white"))))
+ '(mode-line-mousable-minor-mode
    ((t (:background "darkslateblue" :foreground "white"))))
 
  '(mouse ((t (:background "black"))))
