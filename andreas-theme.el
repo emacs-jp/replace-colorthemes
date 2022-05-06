@@ -150,7 +150,12 @@
  '(green ((t (:foreground "green"))))
  '(gui-button-face ((t (:background "grey75"))))
  '(gui-element ((t (:background "Gray80"))))
- '(highlight ((t (nil))))
+
+ ;; Highlighting
+ '(highlight ((t (:background "yellow" :foreground "red"))))
+ '(hl-line ((t (:background "yellow" :foreground "red"))))
+ '(lazy-highlight ((t (:background "yellow" :foreground "red"))))
+
  '(holiday-face ((t (:background "pink"))))
  '(hyper-apropos-documentation ((t (:foreground "darkred"))))
  '(hyper-apropos-heading ((t (:bold t))))
